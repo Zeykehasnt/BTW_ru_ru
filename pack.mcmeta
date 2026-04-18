@@ -1,12 +1,6 @@
 {
-    "pack": {
-        "pack_format": 1,
-        "supported_formats": [
-            15,
-            75
-        ],
-        "min_format": 15,
-        "max_format": 75,
-        "description": "I stole mcmeta somewhere"
-    }
+  "pack": {
+    "pack_format": 1,
+    "description": "Russian localization for BTW! By Aristokrat and ZeykeHas"
+  }
 }
