@@ -1,0 +1,1459 @@
+# Блоки BTW
+
+tile.fcBlockArcaneVessel.name=Сосуд дракона
+tile.fcBlockScrewPump.name=Шнековый насос
+tile.FCBlockFarmlandFertilized.name=Пашня
+tile.fcBlockWoolSlab.name=Шерстяная плита
+tile.fcBlockGroth.name=Адская желвь
+tile.fcBlockInfernalEnchanter.name=Инфернальный зачарователь
+tile.fcBlockSoulforgedSteel.name=Блок стали душ
+# tile.fcBlockDetectorLogicGlowing.name=Glowing Detector Logic
+tile.fcBlockBloodWoodLeaves.name=Кровавая листва
+tile.fcBlockBloodWood.name=Кровавое дерево
+tile.fcBlockMiningCharge.name=Горный заряд
+tile.fcBlockBuddyBlock.name=Наблюдатель
+tile.fcBlockKiln.name=Печь для обжига
+tile.fcBlockAnvil.name=Кузница душ
+tile.fcBlockLightBlock.name=Осветительный блок
+tile.fcBlockHibachi.name=Хибачи
+tile.fcBlockHopper.name=Воронка
+tile.fcBlockSaw.name=Пила
+tile.fcBlockPlatform.name=Платформа
+tile.fcBlockCement.name=Цемент
+tile.fcBlockPulley.name=Шкив
+tile.fcBlockWoodOakMoulding.name=Старый молдинг
+tile.fcBlockWoodOakMoulding.moulding.name=Старый молдинг
+tile.fcBlockCorner.name=Старый уголок
+tile.fcBlockBlockDispenser.name=Раздатчик блоков
+tile.fcBlockCauldron.name=Котёл
+tile.fcBlockDetectorBlock.name=Детектор
+# tile.fcBlockDetectorLogic.name=Detector Logic
+tile.fcBlockLens.name=Линза
+tile.fcBlockHemp.name=Конопля
+tile.fcBlockHandCrank.name=Ручной привод
+tile.fcBlockMillStone.name=Жёрнов
+tile.fcBlockAnchor.name=Якорь
+tile.fcBlockRope.name=Верёвка
+tile.fcBlockOmniSlab.name=Старый сайдинг
+tile.fcBlockAxle.name=Вал
+tile.fcBlockAxlePowerSource.name=Вращающийся вал
+tile.fcBlockGearBox.name=Муфта
+tile.fcBlockTurntable.name=Поворотный стол
+tile.fcBlockBellows.name=Меха
+tile.fcBlockStokedFire.name=Раздутый огонь
+tile.fcBlockUnfiredPottery.name=Необожжённая керамика
+tile.fcBlockUnfiredPottery.crucible.name=Необожжённый тигель
+tile.fcBlockUnfiredPottery.planter.name=Необожжённый горшок
+tile.fcBlockUnfiredPottery.vase.name=Необожжённая ваза
+tile.fcBlockUnfiredPottery.urn.name=Необожжённая урна
+tile.fcBlockUnfiredPottery.mould.name=Необожжённая литейная форма
+tile.fcBlockCrucible.name=Тигель
+tile.fcBlockPlanter.name=Горшок
+tile.fcBlockPlanter.soulSand.name=Горшок с песком душ
+tile.fcBlockVase.name=Ваза
+tile.fcBlockDetectorRailWood.name=Рельсы с датчиком
+tile.fcBlockDetectorRailSoulforgedSteel.name=Рельсы с датчиком
+tile.fcBlockRottenFlesh.name=Блок гнилой плоти
+tile.fcBlockSoulforgeDormant.name=Спящая кузница душ
+
+tile.fcBlockSmoothstoneStairs.stone.name=Каменные ступеньки
+tile.fcBlockSmoothstoneStairs.deepslate.name=Ступеньки из глубинного сланца
+tile.fcBlockSmoothstoneStairs.blackstone.name=Ступеньки из чернита
+
+tile.fcBlockRottenFleshSlab.name=Плита из гнилой плоти
+tile.fcBlockBoneSlab.name=Плита из костей
+tile.fcBlockPumpkinFresh.name=Тыква
+tile.fcBlockWoodBloodStairs.name=Ступеньки из кровавой древесины
+tile.fcBlockLogDamaged.name=Повреждённая дубовая древесина
+tile.fcBlockLogDamagedSpruce.name=Повреждённая еловая древесина
+tile.fcBlockLogDamagedBirch.name=Повреждённая берёзовая древесина
+tile.fcBlockLogDamagedJungle.name=Повреждённая тропическая древесина
+tile.fcBlockDirtLoose.name=Рыхлая земля
+tile.fcBlockDirtLooseSlab.name=Рыхлая земляная плита
+tile.fcBlockCampfire.name=Костёр
+tile.fcBlockUnfiredBrick.name=Сырой кирпич
+tile.fcBlockCookedBrick.name=Кирпич
+tile.fcBlockBrickLoose.name=Нескреплённые кирпичи 
+tile.fcBlockBrickLooseSlab.name=Нескреплённая кирпичная плита
+
+tile.fcBlockCobblestoneLoose.stone.name=Рыхлый булыжник
+tile.fcBlockCobblestoneLoose.deepslate.name=Рыхлый дробленый глубинный сланец
+tile.fcBlockCobblestoneLoose.blackstone.name=Рыхлый дробленый чернит
+
+tile.fcBlockCobblestoneLooseSlab.stone.name=Плита из рыхлого булыжника
+tile.fcBlockCobblestoneLooseSlab.deepslate.name=Плита из рыхлого дробленого глубинного сланца
+tile.fcBlockCobblestoneLooseSlab.blackstone.name=Плита из рыхлого дробленого чернита
+
+tile.fcBlockFurnaceBrick.name=Кирпичная печь
+tile.fcBlockLooseFurnaceBrick.name=Нескреплённая кирпичная печь
+tile.fcBlockTorchFiniteIdle.name=Грубый факел
+tile.fcBlockTorchFiniteBurning.name=Горящий грубый факел
+tile.fcBlockStoneRough.name=Грубый камень
+tile.fcBlockWorkStump.name=Пень-верстак
+tile.fcBlockBasketWicker.name=Корзинка
+tile.fcBlockLogSpike.name=Дубовый древесный шип
+tile.fcBlockLogSpikeSpruce.name=Еловый древесный шип
+tile.fcBlockLogSpikeBirch.name=Берёзовый древесный шип
+tile.fcBlockLogSpikeJungle.name=Тропический древесный шип
+tile.fcBlockTorchIdle.name=Незажжённый факел
+tile.fcBlockUnfiredClay.name=Сырая глина
+tile.fcBlockNetherSludge.name=Сырая адская глина
+tile.fcBlockMyceliumSlab.name=Плита из мицелия
+tile.fcBlockBrickLooseStairs.name=Нескреплённые кирпичные ступеньки
+tile.fcBlockBoxBark.name=Ящик из коры
+
+tile.fcBlockCobblestoneLooseStairs.stone.name=Нескреплённые ступеньки из булыжника
+tile.fcBlockCobblestoneLooseStairs.deepslate.name=Нексрепленные ступеньки из дробленого глубинного сланца
+tile.fcBlockCobblestoneLooseStairs.blackstone.name=Нескреплённые ступеньки из дробленого чернита
+
+tile.fcBlockCobblestoneStairs.stone.name=Ступеньки из булыжника
+tile.fcBlockCobblestoneStairs.deepslate.name=Ступеньки из дробленого глубинного сланца
+tile.fcBlockCobblestoneStairs.blackstone.name=Ступеньки из дробленого чернита
+
+tile.fcBlockLogSmouldering.name=Тлеющее дерево
+tile.fcBlockWoodCinders.name=Огарок
+tile.fcBlockStumpCharred.name=Обожжённый пень
+tile.fcBlockAshGroundCover.name=Пепел
+tile.fcBlockSnowLoose.name=Рыхлый снег
+tile.fcBlockSnowLooseSlab.name=Рыхлая снежная плита
+tile.fcBlockSnowSolid.name=Снег
+tile.fcBlockSnowSolidSlab.name=Снежная плита
+tile.fcBlockLadder.name=Лестница
+tile.fcBlockLadderOnFire.name=Горящая лестница
+tile.fcBlockShovel.name=Поршневая лопата
+tile.fcBlockHamper.name=Большая корзина
+tile.fcBlockCreeperOysters.name=Блок из ракушек крипера
+tile.fcBlockCreeperOystersSlab.name=Плита из ракушек крипера
+tile.fcBlockTorchNetherBurning.name=Горящий факел
+tile.fcBlockRedstoneClutch.name=Блокируемая муфта
+tile.fcBlockSpikeIron.name=Железный шип
+tile.fcBlockLightningRod.name=Громоотвод
+
+tile.fcBlockStoneBrickLoose.stone.name=Блок из нескреплённого каменного кирпича
+tile.fcBlockStoneBrickLoose.deepslate.name=Блок из нескреплённого глубинносланцевого кирпича
+tile.fcBlockStoneBrickLoose.blackstone.name=Блок из нескрепленного чернитного кирпича
+
+tile.fcBlockStoneBrickLooseSlab.stone.name=Плита из нескреплённого каменного кирпича
+tile.fcBlockStoneBrickLooseSlab.deepslate.name=Плита из нескреплённого глубинносланцевого кирпича
+tile.fcBlockStoneBrickLooseSlab.blackstone.name=Плита из нескреплённого чернитного кирпича
+
+tile.fcBlockStoneBrickLooseStairs.stone.name=Ступеньки из нескреплённого каменного кирпича
+tile.fcBlockStoneBrickLooseStairs.deepslate.name=Ступеньки из нескреплённого глубинносланцевого кирпича
+tile.fcBlockStoneBrickLooseStairs.blackstone.name=Ступеньки из нескреплённого чернитного кирпича
+
+tile.fcBlockStoneBrickStairs.stone.name=Ступеньки из каменного кирпича
+tile.fcBlockStoneBrickStairs.deepslate.name=Ступеньки из глубинносланцевого кирпича
+tile.fcBlockStoneBrickStairs.blackstone.name=Ступеньки из чернитного кирпича
+
+tile.fcBlockNetherBrickLoose.name=Нескреплённый адский кирпич
+tile.fcBlockNetherBrickLooseSlab.name=Плита из нескреплённого адского кирпича
+tile.fcBlockNetherBrickLooseStairs.name=Ступеньки из нескреплённого адского кирпича
+tile.fcBlockNetherrackFalling.name=Падающий адский камень
+tile.fcBlockLavaPillow.name=Лавовая подушка
+tile.fcBlockChunkOreStorageIron.name=Блок железной руды
+tile.fcBlockChunkOreStorageGold.name=Блок золотой руды
+tile.fcBlockWicker.name=Плетёный блок
+tile.fcBlockWickerSlab.name=Плетёная плита
+tile.fcBlockWickerPane.name=Плетёная панель
+tile.fcBlockGrate.name=Решётка
+tile.fcBlockSlats.name=Планки
+tile.fcBlockFarmlandNew.name=Пашня
+tile.fcBlockPlanterSoil.name=Горшок с землёй
+
+tile.fcBlockSilverfishStone.name=Заражённый камень
+tile.fcBlockSilverfishStone2.name=Заражённый камень
+tile.fcBlockSilverfishStone3.name=Заражённый камень
+tile.fcBlockSilverfishCobblestone.name=Заражённый булыжник
+tile.fcBlockSilverfishStoneBrick.name=Заражённые каменные кирпичи
+tile.fcBlockSilverfishStoneBrickMossy.name=Заражённые замшелые каменные кирпичи
+tile.fcBlockSilverfishStoneCracked.name=Заражённые потресканные каменные кирпичи
+tile.fcBlockSilverfishStoneChiseled.name=Заражённые резные каменные кирпичи
+
+tile.fcBlockSilverfishStone.deepslate.name=Заражённый глубинный сланец
+tile.fcBlockSilverfishCobblestone.deepslate.name=Заражённый дробленый глубинный сланец
+tile.fcBlockSilverfishStoneBrick.deepslate.name=Заражённые глубинносланцевые кирпичи
+tile.fcBlockSilverfishStoneBrickMossy.deepslate.name=Заражённые замшелые глубинносланцевые кирпичи
+tile.fcBlockSilverfishStoneCracked.deepslate.name=Заражённые потресканные глубинносланцевые кирпичи
+tile.fcBlockSilverfishStoneChiseled.deepslate.name=Заражённые резные глубинносланцевые кирпичи
+
+tile.fcBlockSilverfishStone.blackstone.name=Заражённый чернит
+tile.fcBlockSilverfishCobblestone.blackstone.name=Заражённый дробленый чернит
+tile.fcBlockSilverfishStoneBrick.blackstone.name=Заражённые чернитные кирпичи
+tile.fcBlockSilverfishStoneBrickMossy.blackstone.name=заражённый замшелые чернитные кирпичи
+tile.fcBlockSilverfishStoneCracked.blackstone.name=Заражённые потресканные чернитные кирпичи
+tile.fcBlockSilverfishStoneChiseled.blackstone.name=Заражённые резные чернитные кирпичи
+
+tile.fcBlockClay.name=Залежи глины
+tile.fcBlockGrassSlab.name=Травяная плита
+tile.fcBlockBedroll.name=Спальный мешок
+tile.fcBlockSpiderEye.name=Блок из паучьих глаз
+tile.fcBlockSpiderEyeSlab.name=Плита из паучьих глаз
+tile.fcBlockSaplingOak.name=Саженец дуба
+tile.fcBlockSaplingOak.mature.name=Зрелый саженец дуба
+tile.fcBlockSaplingSpruce.name=Саженец ели
+tile.fcBlockSaplingSpruce.mature.name=Зрелый саженец ели
+tile.fcBlockSaplingBirch.name=Саженец берёзы
+tile.fcBlockSaplingBirch.mature.name=Зрелый саженец берёзы
+tile.fcBlockSaplingJungle.name=Саженец тропического дерева
+tile.fcBlockSaplingJungle.mature.name=Зрелый саженец тропического дерева
+tile.fcBlockMushroomCap.name=Грибной блок
+tile.fcBlockLoom.name=Прялка
+tile.fcBlockCharcoal.name=Блок древесного угля
+tile.fcBlockNethercoal.name=Блок адского угля
+
+
+# Сложные блоки BTW
+
+tile.fcBlockCompanionCube.cube.name=Куб-компаньон
+tile.fcBlockCompanionCube.slab.name=Плита-компаньон
+# tile.fcBlockAestheticOpaque.name=Aesthetic Opaque
+tile.fcBlockAestheticOpaque.wicker.name=Старый плетёный блок
+tile.fcBlockAestheticOpaque.dung.name=Старый навоз
+tile.fcBlockAestheticOpaque.steel.name=Блок из стали душ
+tile.fcBlockAestheticOpaque.hellfire.name=Блок концентрированного адского пламени
+tile.fcBlockAestheticOpaque.padding.name=Блок из подкладки
+tile.fcBlockAestheticOpaque.soap.name=Блок мыла
+tile.fcBlockAestheticOpaque.rope.name=Бобина с верёвкой
+tile.fcBlockAestheticOpaque.flint.name=Блок из кремня
+tile.fcBlockAestheticOpaque.whitestone.name=Белый камень
+tile.fcBlockAestheticOpaque.whitecobble.name=Белый булыжник
+tile.fcBlockAestheticOpaque.barrel.name=Бочка
+tile.fcBlockAestheticOpaque.choppingblockbloody.name=Кровавая плаха
+tile.fcBlockAestheticOpaque.choppingblock.name=Плаха
+tile.fcBlockAestheticOpaque.enderblock.name=Камень Эндера
+tile.fcBlockAestheticOpaque.bone.name=Костяной блок
+# tile.fcBlockAestheticNonOpaque.name=Aesthetic Non Opaque
+tile.fcBlockAestheticNonOpaque.urn.name=Урна
+tile.fcBlockAestheticNonOpaque.column.name=Старая колонна
+tile.fcBlockAestheticNonOpaque.pedestal.name=Старый пьедестал
+tile.fcBlockAestheticNonOpaque.table.name=Старый стол
+tile.fcBlockAestheticNonOpaque.wickerslab.name=Старая плетёная плита
+tile.fcBlockAestheticNonOpaque.whitecobbleslab.name=Плита из белого булыжника
+tile.fcBlockAestheticNonOpaque.lightningrod.name=Старый громоотвод из стали душ
+# tile.fcBlockAestheticVegetation.name=Aesthetic Vegetation
+tile.fcBlockAestheticVegetation.vinetrap.name=Ловушка из лозы
+tile.fcBlockAestheticVegetation.bloodwoodsapling.name=Саженец кровавого дерева
+tile.fcBlockAestheticVegetation.bloodleaves.name=Кровавая листва
+
+tile.fcWoodSpruceSiding.oak.name=Дубовый сайдинг
+tile.fcWoodSpruceSiding.spruce.name=Еловый сайдинг
+tile.fcWoodSpruceSiding.birch.name=Берёзовый сайдинг
+tile.fcWoodSpruceSiding.jungle.name=Сайдинг из тропического дерева
+tile.fcWoodSpruceSiding.blood.name=Сайдинг из кровавого дерева
+
+tile.fcWoodSpruceMoulding.oak.name=Дубовый молдинг
+tile.fcWoodSpruceMoulding.spruce.name=Еловый молдинг
+tile.fcWoodSpruceMoulding.birch.name=Берёзовый молдинг
+tile.fcWoodSpruceMoulding.jungle.name=Молдинг из тропического дерева
+tile.fcWoodSpruceMoulding.blood.name=Молдинг из кровавого дерева
+
+tile.fcWoodBirchSiding.oak.name=Дубовый уголок
+tile.fcWoodBirchSiding.spruce.name=Еловый уголок
+tile.fcWoodBirchSiding.birch.name=Берёзовый уголок
+tile.fcWoodBirchSiding.jungle.name=Уголок из тропического дерева
+tile.fcWoodBirchSiding.blood.name=Уголок из кровавого дерева
+
+tile.fcWoodBirchMoulding.oak.pedestal.name=Дубовый пьедестал
+tile.fcWoodBirchMoulding.spruce.pedestal.name=Еловый пьедестал
+tile.fcWoodBirchMoulding.birch.pedestal.name=Берёзовый пьедестал
+tile.fcWoodBirchMoulding.jungle.pedestal.name=Пьедестал из тропического дерева
+tile.fcWoodBirchMoulding.blood.pedestal.name=Пьедестал из кровавого дерева
+
+tile.fcWoodBirchMoulding.oak.column.name=Дубовая колонна
+tile.fcWoodBirchMoulding.spruce.column.name=Еловая колонна
+tile.fcWoodBirchMoulding.birch.column.name=Берёзовая колонна
+tile.fcWoodBirchMoulding.jungle.column.name=Колонна из тропического дерева
+tile.fcWoodBirchMoulding.blood.column.name=Колонна из кровавого дерева
+
+tile.fcWoodBirchMoulding.oak.table.name=Дубовый стол
+tile.fcWoodBirchMoulding.spruce.table.name=Еловый стол
+tile.fcWoodBirchMoulding.birch.table.name=Берёзовый стол
+tile.fcWoodBirchMoulding.jungle.table.name=Стол из тропического дерева
+tile.fcWoodBirchMoulding.blood.table.name=Стол из кровавого дерева
+
+tile.fcWoodJungleSiding.oak.bench.name=Дубовая скамья
+tile.fcWoodJungleSiding.spruce.bench.name=Еловая скамья
+tile.fcWoodJungleSiding.birch.bench.name=Берёзовая скамья
+tile.fcWoodJungleSiding.jungle.bench.name=Скамья из тропического дерева
+tile.fcWoodJungleSiding.blood.bench.name=Скамья из кровавого дерева
+
+tile.fcWoodJungleSiding.oak.fence.name=Дубовый забор
+tile.fcWoodJungleSiding.spruce.fence.name=Еловый забор
+tile.fcWoodJungleSiding.birch.fence.name=Берёзовый забор
+tile.fcWoodJungleSiding.jungle.fence.name=Забор из тропического дерева
+tile.fcWoodJungleSiding.blood.fence.name=Забор из кровавого дерева
+
+tile.fcBlockSidingQuartz.name=Siding And Corner
+tile.fcBlockSidingQuartz.siding.name=Кварцевый сайдинг
+tile.fcBlockSidingQuartz.corner.name=Кварцевый уголок
+tile.fcBlockSidingQuartz.bench.name=Кварцевая скамья
+tile.fcBlockSidingQuartz.fence.name=Кварцевая стена
+tile.fcBlockMouldingQuartz.name=Молдинги и декорации
+tile.fcBlockMouldingQuartz.moulding.name=Кварцевый молдинг
+tile.fcBlockMouldingQuartz.column.name=Кварцевая колонна
+tile.fcBlockMouldingQuartz.pedestal.name=Кварцевый пьедестал
+tile.fcBlockMouldingQuartz.table.name=Кварцевый стол
+
+tile.fcStoneBrickSiding.name=Сайдинги и уголки
+tile.fcStoneBrickSiding.siding.name=Сайдинг из каменного кирпича
+tile.fcStoneBrickSiding.corner.name=Уголок из каменного кирпича
+tile.fcStoneBrickSiding.bench.name=Скамья из каменного кирпича
+tile.fcStoneBrickSiding.fence.name=Забор из каменного кирпича
+tile.fcStoneBrickMoulding.name=Молдинги и декорации
+tile.fcStoneBrickMoulding.moulding.name=Молдинг из каменного кирпича
+tile.fcStoneBrickMoulding.column.name=Колонна из каменного кирпича
+tile.fcStoneBrickMoulding.pedestal.name=Пьедестал из каменного кирпича
+tile.fcStoneBrickMoulding.table.name=Стол из каменного кирпича
+
+tile.fcDeepslateBrickSiding.name=Сайдинги и уголки
+tile.fcDeepslateBrickSiding.siding.name=Сайдинг из глубинносланцевого кирпича
+tile.fcDeepslateBrickSiding.corner.name=Уголок из глубинносланцевого кирпича
+tile.fcDeepslateBrickSiding.bench.name=Скамья из глубинносланцевого кирпича
+tile.fcDeepslateBrickSiding.fence.name=Забор из глубинносланцевого кирпича
+tile.fcDeepslateBrickMoulding.name=Молдинг из глубинносланцевого кирпича
+tile.fcDeepslateBrickMoulding.moulding.name=Молдинг из глубинносланцевого кирпича
+tile.fcDeepslateBrickMoulding.column.name=Колонна из глубинносланцевого кирпича
+tile.fcDeepslateBrickMoulding.pedestal.name=Пьедестал из глубинносланцевого кирпича
+tile.fcDeepslateBrickMoulding.table.name=Стол из глубинносланцевого кирпича
+
+tile.fcBlackstoneBrickSiding.name=Сайдинги и уголки
+tile.fcBlackstoneBrickSiding.siding.name=Сайдинг из чернитного кирпича
+tile.fcBlackstoneBrickSiding.corner.name=Уголок из чернитного кирпича
+tile.fcBlackstoneBrickSiding.bench.name=Скамья из чернитного кирпича
+tile.fcBlackstoneBrickSiding.fence.name=Стена из чернитного кирпича
+tile.fcBlackstoneBrickMoulding.name=Молдинги и декорации
+tile.fcBlackstoneBrickMoulding.moulding.name=Молдинг из чернитного кирпича
+tile.fcBlackstoneBrickMoulding.column.name=Колонна из чернитного кирпича
+tile.fcBlackstoneBrickMoulding.pedestal.name=Пьедестал из чернитного кирпича
+tile.fcBlackstoneBrickMoulding.table.name=Стол из чернитного кирпича
+
+tile.fcWhiteStoneSiding.name=Сайдинги и уголки
+tile.fcWhiteStoneSiding.siding.name=Сайдинг из белого камня
+tile.fcWhiteStoneSiding.corner.name=Уголок из белого камня
+tile.fcWhiteStoneSiding.bench.name=Скамья из белого камня
+tile.fcWhiteStoneSiding.fence.name=Забор из белого камня
+tile.fcWhiteStoneMoulding.name=Молдинги и декорации
+tile.fcWhiteStoneMoulding.moulding.name=Молдинг из белого камня
+tile.fcWhiteStoneMoulding.column.name=Колонна из белого камня
+tile.fcWhiteStoneMoulding.pedestal.name=Пьедестал из белого камня
+tile.fcWhiteStoneMoulding.table.name=Стол из белого камня
+
+tile.fcBlockWhiteStoneStairs.smooth.name=Ступеньки из белого камня
+tile.fcBlockWhiteStoneStairs.cobble.name=Ступеньки из белого булыжника
+
+tile.fcNetherBrickSiding.name=Сайдинги и уголки
+tile.fcNetherBrickSiding.siding.name=Сайдинг из адского камня
+tile.fcNetherBrickSiding.corner.name=Уголок из адского камня
+tile.fcNetherBrickSiding.bench.name=Скамья из адского камня
+tile.fcNetherBrickSiding.fence.name=Забор из адского камня
+tile.fcNetherBrickMoulding.name=Молдинги и декорации
+tile.fcNetherBrickMoulding.moulding.name=Молдинг из адского камня
+tile.fcNetherBrickMoulding.column.name=Колонна из адского камня
+tile.fcNetherBrickMoulding.pedestal.name=Пьедестал из адского камня
+tile.fcNetherBrickMoulding.table.name=Стол из адского камня
+
+tile.fcBrickSiding.name=Сайдинги и уголки
+tile.fcBrickSiding.siding.name=Кирпичный сайдинг
+tile.fcBrickSiding.corner.name=Кирпичный уголок
+tile.fcBrickSiding.bench.name=Кирпичная скамья
+tile.fcBrickSiding.fence.name=Кирпичный забор
+tile.fcBrickMoulding.name=Молдинги и декорации
+tile.fcBrickMoulding.moulding.name=Кирпичный молдинг
+tile.fcBrickMoulding.column.name=Кирпичная колонна
+tile.fcBrickMoulding.pedestal.name=Кирпичный пьедестал
+tile.fcBrickMoulding.table.name=Кирпичный стол
+
+tile.fcStoneSiding.stone.name=Сайдинги и уголки
+tile.fcStoneSiding.stone.siding.name=Сайдинг из камня
+tile.fcStoneSiding.stone.corner.name=Уголок из камня
+tile.fcStoneSiding.stone.bench.name=Скамья из камня
+tile.fcStoneSiding.stone.fence.name=Стена из камня
+tile.fcStoneMoulding.stone.name=Молдинги и декорации
+tile.fcStoneMoulding.stone.moulding.name=Молдинг из камня
+tile.fcStoneMoulding.stone.column.name=Колонна из камня
+tile.fcStoneMoulding.stone.pedestal.name=Пьедестал из камня
+tile.fcStoneMoulding.stone.table.name=Стол из камня
+
+tile.fcStoneSiding.deepslate.name=Сайдинги и уголки
+tile.fcStoneSiding.deepslate.siding.name=Сайдинг из глубинного сланца
+tile.fcStoneSiding.deepslate.corner.name=Уголок из глубинного сланца
+tile.fcStoneSiding.deepslate.bench.name=Скамья из глубинного сланца
+tile.fcStoneSiding.deepslate.fence.name=Забор из глубинного сланца
+tile.fcStoneMoulding.deepslate.name=Молдинги и декорации
+tile.fcStoneMoulding.deepslate.moulding.name=Молдинг из глубинного сланца
+tile.fcStoneMoulding.deepslate.column.name=Колонна из глубинного сланца
+tile.fcStoneMoulding.deepslate.pedestal.name=Пьедестал из глубинного сланца
+tile.fcStoneMoulding.deepslate.table.name=Стол из глубинного сланца
+
+tile.fcStoneSiding.blackstone.name=Сайдинги и уголки
+tile.fcStoneSiding.blackstone.siding.name=Сайдинг из чернита
+tile.fcStoneSiding.blackstone.corner.name=Уголок из чернита
+tile.fcStoneSiding.blackstone.bench.name=Стол из чернита
+tile.fcStoneSiding.blackstone.fence.name=Забор из чернита
+tile.fcStoneMoulding.blackstone.name=Молдинги и декорации
+tile.fcStoneMoulding.blackstone.moulding.name=Молдинг из чернита
+tile.fcStoneMoulding.blackstone.column.name=Колонна из чернита
+tile.fcStoneMoulding.blackstone.pedestal.name=Пьедестал из чернита
+tile.fcStoneMoulding.blackstone.table.name=Стол из чернита
+
+tile.fcSandstoneSiding.name=Сайдинги и уголки
+tile.fcSandstoneSiding.siding.name=Сайдинг из песчаника
+tile.fcSandstoneSiding.corner.name=Уголок из песчаника
+tile.fcSandstoneSiding.bench.name=Скамья из песчаника
+tile.fcSandstoneSiding.fence.name=Забор из песчаника
+tile.fcSandstoneMoulding.name=Молдинги и декорации
+tile.fcSandstoneMoulding.moulding.name=Молдинг из песчаника
+tile.fcSandstoneMoulding.column.name=Колонна из песчаника
+tile.fcSandstoneMoulding.pedestal.name=Пьедестал из песчаника
+tile.fcSandstoneMoulding.table.name=Стол из песчаника
+
+tile.fcBlockAestheticOpaqueEarth.name=Чумная земля
+tile.fcBlockAestheticOpaqueEarth.blight.name=Чума
+tile.fcBlockAestheticOpaqueEarth.blight3.name=Зрелая чума
+tile.fcBlockAestheticOpaqueEarth.packed.name=Плотная земля
+tile.fcBlockAestheticOpaqueEarth.dung.name=Блок навоза
+tile.fcBlockSlabDirt.name=Земляная плита
+tile.fcBlockSlabDirt.grass.name=Травяная плита
+tile.fcBlockSlabDirt.packed.name=Плотная земляная плита
+tile.fcBlockSlabFalling.name=Гравийная плита
+tile.fcBlockSlabFalling.sand.name=Песчаная плита
+tile.fcBlockThatch.name=Блок соломы
+tile.fcBlockDiamondIngot.name=Блок алмазных слитков
+tile.fcBlockCarvedPumpkin.name=Вырезанная тыква
+tile.fcBlockJackOLantern.name=Светильник Джека
+
+# Переименованные ванильные блоки
+
+tile.rose.name=Роза
+tile.flower.name=Цветок
+tile.sand.name=Песок
+tile.dirt.name=Земля
+tile.tnt.name=Пороховая бочка
+tile.mushroom.name=Старый гриб
+tile.anvil.intact.name=Мёртвый груз
+tile.anvil.slightlyDamaged.name=Мёртвый груз
+tile.anvil.veryDamaged.name=Мёртвый груз
+tile.stairsQuartz.name=Ступеньки из чёрного камня
+tile.stoneSlab.quartz.name=Плита из чёрного камня
+tile.quartzBlock.default.name=Чёрный камень
+tile.quartzBlock.chiseled.name=Резной чёрный камень
+tile.quartzBlock.lines.name=Столб из чёрного камня
+tile.pumpkin.name=Вырезанная тыква
+tile.wood.blood.name=Доски из кровавой древесины
+tile.woodSlab.blood.name=Плита из кровавой древесины
+tile.bed.name=Старая кровать
+
+tile.litpumpkin.name=Старый светильник Джека
+
+tile.torch.name=Старый факел
+
+tile.stone.stone.name=Камень
+tile.stone.deepslate.name=Глубинный сланец
+tile.stone.blackstone.name=Чернит
+
+tile.stonebrick.stone.name=Булыжник
+tile.stonebrick.deepslate.name=Дробленый сланец
+tile.stonebrick.blackstone.name=Дробленый чернит
+
+tile.stoneMoss.stone.name=Замшелый булыжник
+tile.stoneMoss.deepslate.name=Замшелый дробленый сланец
+tile.stoneMoss.blackstone.name=Замшелый дробленый чернит
+
+tile.stonebricksmooth.stone.name=Каменные кирпичи
+tile.stonebricksmooth.stone.mossy.name=Замшелые каменные кирпичи
+tile.stonebricksmooth.stone.cracked.name=Потресканные каменные кирпичи
+tile.stonebricksmooth.stone.chiseled.name=Резные каменные кирпичи
+
+tile.stonebricksmooth.deepslate.name=Глубинносланцевые кирпичи
+tile.stonebricksmooth.deepslate.mossy.name=Замшелые глубинносланцевые кирпичи
+tile.stonebricksmooth.deepslate.cracked.name=Потресканные глубинносланцевые кирпичи
+tile.stonebricksmooth.deepslate.chiseled.name=Резные глубинносланцевые кирпичи
+
+tile.stonebricksmooth.blackstone.name=Чернитные кирпичи
+tile.stonebricksmooth.blackstone.mossy.name=Замшелые чернитные кирпичи
+tile.stonebricksmooth.blackstone.cracked.name=Потресканные чернитные кирпичи
+tile.stonebricksmooth.blackstone.chiseled.name=Резные чернитные кирпичи
+
+tile.cobblestoneSlab.stone.name=Плита из булыжника
+tile.cobblestoneSlab.deepslate.name=Плита из дробленого глубинного сланца
+tile.cobblestoneSlab.blackstone.name=Плита из дробленого чернита
+
+tile.stoneBrickSlab.stone.name=Плита из каменных кирпичей
+tile.stoneBrickSlab.deepslate.name=Плита из глубинносланцевых кирпичей
+tile.stoneBrickSlab.blackstone.name=Плита из чернитных кирпичей
+
+tile.stoneSlab.stone.name=Каменная плита
+tile.stoneSlab.deepslate.name=Глубинносланцевая плита
+tile.stoneSlab.blackstone.name=Чернитная плита
+
+tile.sapling.oak.name=Старый саженец дуба
+tile.sapling.spruce.name=Старый саженец ели
+tile.sapling.birch.name=Старый саженец берёзы
+tile.sapling.jungle.name=Старый саженец тропического дерева
+
+tile.sapling.oakMature.name=Старый зрелый саженец дуба
+tile.sapling.spruceMature.name=Старый зрелый саженец ели
+tile.sapling.birchMature.name=Старый зрелый саженец берёзы
+tile.sapling.jungleMature.name=Старый зрелый саженец тропического дерева
+
+tile.netherrack.name=Незерак
+tile.portal.name=Адский портал
+
+tile.ice.natural.name=Естественный лёд
+tile.ice.artificial.name=Лёд
+
+# Предметы BTW
+
+item.fcItemBucketCement.name=Ведро с цементом
+item.fcItemWolfChopRaw.name=Сырая волчатина
+item.fcItemWolfChopCooked.name=Жареная волчатина
+item.fcItemNethercoal.name=Адский уголь
+item.fcItemSeedsHemp.name=Семена конопли
+item.fcItemHemp.name=Конопля
+item.fcItemGear.name=Шестерня
+item.fcItemFlour.name=Мука
+item.fcItemFibersHemp.name=Пенька
+item.fcItemLeatherScoured.name=Очищенная кожа
+item.fcItemDonut.name=Пончик
+item.fcItemRope.name=Верёвка
+item.fcItemSlats.name=Старые планки
+item.fcItemDung.name=Навоз
+item.fcItemWaterWheel.name=Водяное колесо
+item.fcItemBladeWindMill.name=Парус
+item.fcItemWindMill.name=Ветряк
+item.fcItempFabric.name=Ткань из конопли
+item.fcItemGrate.name=Старая решётка
+item.fcItemWicker.name=Старая плетёная панель
+item.fcItemLeatherTanned.name=Выделанная кожа
+item.fcItemStrap.name=Полоска кожи
+item.fcItemBelt.name=Ремень
+item.fcItemFoulFood.name=Испорченная еда
+item.fcItemBladeWood.name=Лопасть
+item.fcItemGlue.name=Клей
+item.fcItemTallow.name=Жир
+item.fcItemHaft.name=Рукоять
+item.fcItemIngotSteel.name=Слиток стали душ
+item.fcItemPickAxeRefined.name=Кирка из стали душ
+item.fcItemShovelRefined.name=Лопата из стали душ
+item.fcItemHoeRefined.name=Мотыга из стали душ
+item.fcItemAxeBattle.name=Боевой топор из стали душ
+item.fcItemSwordRefined.name=Меч из стали душ
+item.fcItemNetherrackGround.name=Измельчённый адский камень
+item.fcItemDustHellfire.name=Пыль адского пламени
+item.fcItemConcentratedHellfire.name=Концентрированное адское пламя
+item.fcItemArmorPlate.name=Броневая пластина из стали душ
+item.fcItemHelmetPlate.name=Шлем из стали душ
+item.fcItemChestplatePlate.name=Нагрудник из стали душ
+item.fcItemLeggingsPlate.name=Поножи из стали душ
+item.fcItemBootsPlate.name=Ботинки из стали душ
+item.fcItemBowComposite.name=Композитный лук
+item.fcItemArrowheadBroadhead.name=Бродхед
+item.fcItemArrowBroadhead.name=Стрела-бродхед
+item.fcItemDustCoal.name=Угольная пыль
+item.fcItemPadding.name=Подкладка
+item.fcItemFilament.name=Нить накала
+item.fcItemRedstoneEye.name=Око из красной пыли
+item.fcItemUrn.name=Урна
+item.fcItemUrnSoul.name=Урна душ
+item.fcItemEggPoached.name=Яйцо-пашот
+item.fcItemPotash.name=Поташ
+item.fcItemSoap.name=Мыло
+item.fcItemDustSaw.name=Опилки
+item.fcItemGimpHelm.name=Кожаная маска
+item.fcItemGimpChest.name=Кожаный жилет
+item.fcItemGimpLeggings.name=Кожаные штаны
+item.fcItemGimpBoots.name=Байкерские ботинки
+item.fcItemDynamite.name=Динамит
+item.fcItemHarnessBreeding.name=Племенная сбруя
+item.fcItemDustSoul.name=Пыль душ
+item.fcItemMattock.name=Кирколопата
+item.fcItemHatchetRefined.name=Топор из стали душ
+item.fcItemNetherSludge.name=Адский шлам
+item.fcItemBrickNether.name=Адский кирпич
+item.fcItemTuningFork.name=Камертон
+item.fcItemScrollArcane.name=Чародейский свиток
+item.fcItemCandle.name=Свеча
+item.fcItemSporesNetherGroth.name=Споры адской желви
+item.fcItemMould.name=Литейная форма
+item.fcItemCanvas.name=Холст
+item.fcItemKibble.name=Собачий корм
+item.fcItemEggRaw.name=Сырое яйцо
+item.fcItemEggFried.name=Яичница
+item.fcItemScrew.name=Шнек
+item.fcItemArrowRotten.name=Гнилая стрела
+item.fcItemOcularOfEnder.name=Окуляр Эндера
+item.fcItemEnderSpectacles.name=Очки Эндера
+item.fcItemStake.name=Маркерный кол
+item.fcItemBrimstone.name=Сера
+item.fcItemNitre.name=Селитра
+item.fcItemElement.name=Стихия
+item.fcItemFuse.name=Фитиль
+item.fcItemBlastingOil.name=Нитроглицерин
+item.fcItemWindMillVertical.name=Ветряк
+item.fcItemPotatoBoiled.name=Варёный картофель
+item.fcItemMuttonRaw.name=Сырая баранина
+item.fcItemMuttonCooked.name=Жареная баранина
+item.fcItemWitchWart.name=Ведьмин нарост
+item.fcItemCarrotCooked.name=Варёная морковь
+item.fcItemSandwichTasty.name=Вкусный бутерброд
+item.fcItemSteakAndPotatoes.name=Стейк с картофелем
+item.fcItemHamAndEggs.name=Яичница с ветчиной
+item.fcItemDinnerSteak.name=Ужин со стейком
+item.fcItemDinnerPork.name=Ужин со свининой
+item.fcItemDinnerWolf.name=Ужин с волчатиной
+item.fcItemKebabRaw.name=Сырой кебаб
+item.fcItemKebabCooked.name=Жареный кебаб
+item.fcItemSoupChicken.name=Куриный суп
+item.fcItemChowder.name=Рыбная похлёбка
+item.fcItemStewHearty.name=Сытное рагу
+item.fcItemMushroomRed.name=Гриб
+item.fcItemMushroomBrown.name=Гриб
+item.fcItemNuggetIron.name=Железный самородок
+item.fcItemMail.name=Кольчуга
+item.fcItemMysteryMeatRaw.name=Сырое загадочное мясо
+item.fcItemMysteryMeatCooked.name=Жареное загадочное мясо
+item.fcItemMushroomOmletRaw.name=Сырой грибной омлет
+item.fcItemMushroomOmletCooked.name=Жареный грибной омлет
+item.fcItemEggScrambledRaw.name=Сырой омлет
+item.fcItemEggScrambledCooked.name=Жареный омлет
+item.fcItemCreeperOysters.name=Ракушки крипера
+item.fcItemWoolHelm.name=Шерстяная шапочка
+item.fcItemWoolChest.name=Шерстяной жакет
+item.fcItemWoolLeggings.name=Шерстяные штаны
+item.fcItemWoolBoots.name=Шерстяные носки
+item.fcItemPaddedHelm.name=Шлем из подкладки
+item.fcItemPaddedChest.name=Куртка из подкладки
+item.fcItemPaddedLeggings.name=Штаны из подкладки
+item.fcItemPaddedBoots.name=Ботинки из подкладки
+item.fcItemTannedHelm.name=Шлем из выделанной кожи
+item.fcItemTannedChest.name=Куртка из выделанной кожи
+item.fcItemTannedLeggings.name=Штаны из выделанной кожи
+item.fcItemTannedBoots.name=Ботинки из выделанной кожи
+item.fcItemIngotDiamond.name=Алмазный слиток
+item.fcItemLeatherCut.name=Разрезанная кожа
+item.fcItemLeatherTannedCut.name=Выделанная разрезанная кожа
+item.fcItemLeatherScouredCut.name=Очищенная разрезанная кожа
+item.fcItemFishingRodBaited.name=Удочка с наживкой
+item.fcItemPileDirt.name=Горсть земли
+item.fcItemPileSand.name=Горсть песка
+item.fcItemPileGravel.name=Горсть гравия
+item.fcItemBatWing.name=Крыло летучей мыши
+item.fcItemDungGolden.name=Золотой навоз
+item.fcItemPileSoulSand.name=Горсть песка душ
+item.fcItemPileEmerald.name=Горсть изумрудной пыли
+item.fcItemPileDiamond.name=Горсть алмазной пыли
+item.fcItemRedstoneLatch.name=Защёлка из красной пыли
+item.fcItemNuggetSteel.name=Самородок стали душ
+item.fcItemWool.name=Шерсть
+item.fcItemCocoaBeans.name=Какао-бобы
+item.fcItemChocolate.name=Шоколад
+item.fcItemBucketChocolateMilk.name=Шоколадное молоко
+item.fcItemSoulFlux.name=Флюс душ
+item.fcItemEnderSlag.name=Шлак из эндерняка
+item.fcItemPastryUncookedCake.name=Тесто для торта
+item.fcItemPastryUncookedCookies.name=Тесто для печенья
+item.fcItemPastryUncookedPumpkinPie.name=Сырой тыквенный пирог
+item.fcItemMysteriousGland.name=Загадочная железа
+item.fcItemBeastLiverRaw.name=Печень Зверя
+item.fcItemBeastLiverCooked.name=Жареная печень
+item.fcItemAncientProphecy.name=Обрывок пророчества
+item.fcItemStumpRemover.name=Корчеватель пней
+item.fcItemChiselWood.name=Кол
+
+item.fcItemStone.stone.name=Камешек
+item.fcItemStone.deepslate.name=Глубинносланцевый камешек
+item.fcItemStone.blackstone.name=Чернитный камешек
+
+item.fcItemChiselStone.name=Резец
+item.fcItemClub.name=Деревянная дубина
+item.fcItemFireStarterSticks.name=Ручное сверло
+item.fcItemFireStarterBow.name=Лучковое сверло
+item.fcItemChunkIronOre.name=Кусок железной руды
+item.fcItemPileIronOre.name=Железная пыль
+item.fcItemChiselIron.name=Железное зубило
+item.fcItemChunkGoldOre.name=Кусок золотой руды
+item.fcItemPileGoldOre.name=Золотая пыль
+item.fcItemWickerPiece.name=Плетёнка
+item.fcItemKnittingNeedles.name=Вязальные спицы
+item.fcItemKnitting.name=Вязание
+item.fcItemWoolKnit.name=Шерстяная ткань
+item.fcItemClubBone.name=Костяная дубина
+item.fcItemMeatCured.name=Вяленое мясо
+item.fcItemMetalFragment.name=Металлолом
+item.fcItemPileClay.name=Горсть глины
+item.fcItemMeatBurned.name=Сожжённое мясо
+item.fcItemChickenFeed.name=Корм для кур
+item.fcItemFishHookBone.name=Костяной крючок
+item.fcItemCarvingBone.name=Заготовка крючка
+
+item.fcItemBrickStone.stone.name=Каменный кирпич
+item.fcItemBrickStone.deepslate.name=Глубинносланцевый кирпич
+item.fcItemBrickStone.blackstone.name=Чернитный кирпич
+
+item.fcItemWickerWeaving.name=Плетение
+item.fcItemWheat.name=Пшеница
+item.fcItemWheatSeeds.name=Семена пшеницы
+item.fcItemBreadDough.name=Хлебное тесто
+item.fcItemStraw.name=Солома
+item.fcItemBrickUnfired.name=Сырой кирпич
+item.fcItemBrickCrudeUnfired.name=Сырой грубый кирпич
+item.fcItemBrickNetherUnfired.name=Сырой адский кирпич
+item.fcItemChiselDiamond.name=Алмазное зубило
+item.fcItemShearsDiamond.name=Алмазные ножницы
+item.fcItemReedRoots.name=Корни сахарного тростника
+item.fcItemCarrot.name=Морковь
+item.fcItemCarrotSeeds.name=Семена моркови
+item.fcItemDiamondPlate.name=Алмазная броневая пластина
+item.fcItemMelonMashed.name=Арбузное пюре
+item.fcItemBedroll.name=Спальный мешок
+item.fcItemCorpseEye.name=Глаз мертвеца
+item.fcItemTangledWeb.name=Спутанная паутина
+item.fcItemWebUntangling.name=Распутывание паутины
+item.fcItemSinew.name=Жила
+item.fcItemSinewExtractingBeef.name=Извлечение жилы
+item.fcItemSinewExtractingWolf.name=Извлечение жилы
+item.fcItemRawCheval.name=Сырая конина
+item.fcItemCookedCheval.name=Жареная конина
+
+# Сложные предметы BTW
+
+item.fcItemBark.name=Кора
+item.fcItemBark.oak.name=Дубовая кора
+item.fcItemBark.spruce.name=Еловая кора
+item.fcItemBark.birch.name=Берёзовая кора
+item.fcItemBark.jungle.name=Кора тропического дерева
+item.fcItemBark.bloodwood.name=Кора кровавого дерева
+
+# Переименованные ванильные предметы
+
+item.cauldron.name=Бак
+item.mushroomStew.name=Грибной крем-суп
+item.enchantedBook.name=Древний манускрипт
+# item.fireworks.name=Damp Firework
+item.stick.name=Палка
+item.fermentedSpiderEye.name=Ядовитая железа
+item.dyePowder.brown.name=Какао-порошок
+item.skull.wither.name=Рунный череп
+item.skull.infused.name=Зачарованный череп
+item.wheat.name=Старая пшеница
+item.seeds.name=Старые семена пшеницы
+item.carrots.name=Старая морковь
+item.fishRaw.name=Сырая рыба
+item.fishCooked.name=Жареная рыба
+item.shears.name=Железные ножницы
+
+# Цветные предметы
+
+wool.black.name=Чёрный клубок
+wool.red.name=Красный клубок
+wool.green.name=Зелёный клубок
+wool.brown.name=Коричневый клубок
+wool.blue.name=Синий клубок
+wool.purple.name=Фиолетовый клубок
+wool.cyan.name=Бирюзовый клубок
+wool.lightGray.name=Светло-серый клубок
+wool.gray.name=Серый клубок
+wool.pink.name=Розовый клубок
+wool.lime.name=Лаймовый клубок
+wool.yellow.name=Жёлтый клубок
+wool.lightBlue.name=Голубой клубок
+wool.magenta.name=Пурпурный клубок
+wool.orange.name=Оранжевый клубок
+wool.white.name=Белый клубок
+
+woolSlab.black.name=Чёрная шерстяная плита
+woolSlab.red.name=Красная шерстяная плита
+woolSlab.green.name=Зелёная шерстяная плита
+woolSlab.brown.name=Коричневая шерстяная плита
+woolSlab.blue.name=Синяя шерстяная плита
+woolSlab.purple.name=Фиолетовая шерстяная плита
+woolSlab.cyan.name=Бирюзовая шерстяная плита
+woolSlab.lightGray.name=Светло-серая шерстяная плита
+woolSlab.gray.name=Серая шерстяная плита
+woolSlab.pink.name=Розовая шерстяная плита
+woolSlab.lime.name=Лаймовая шерстяная плита
+woolSlab.yellow.name=Жёлтая шерстяная плита
+woolSlab.lightBlue.name=Голубая шерстяная плита
+woolSlab.magenta.name=Пурпурная шерстяная плита
+woolSlab.orange.name=Оранжевая шерстяная плита
+woolSlab.white.name=Белая шерстяная плита
+
+woolKnit.black.name=Чёрная ткань
+woolKnit.red.name=Красная ткань
+woolKnit.green.name=Зелёная ткань
+woolKnit.brown.name=Коричневая ткань
+woolKnit.blue.name=Синяя ткань
+woolKnit.purple.name=Фиолетовая ткань
+woolKnit.cyan.name=Бирюзовая ткань
+woolKnit.lightGray.name=Светло-серая ткань
+woolKnit.gray.name=Серая ткань
+woolKnit.pink.name=Розовая ткань
+woolKnit.lime.name=Лаймовая ткань
+woolKnit.yellow.name=Жёлтая ткань
+woolKnit.lightBlue.name=Голубая ткань
+woolKnit.magenta.name=Пурпурная ткань
+woolKnit.orange.name=Оранжевая ткань
+woolKnit.white.name=Белая ткань
+
+candle.black.name=Чёрная свеча
+candle.red.name=Красная свеча
+candle.green.name=Зелёная свеча
+candle.brown.name=Коричневая свеча
+candle.blue.name=Синяя свеча
+candle.purple.name=Фиолетовая свеча
+candle.cyan.name=Бирюзовая свеча
+candle.lightGray.name=Светло-серая свеча
+candle.gray.name=Серая свеча
+candle.pink.name=Розовая свеча
+candle.lime.name=Лаймовая свеча
+candle.yellow.name=Жёлтая свеча
+candle.lightBlue.name=Голубая свеча
+candle.magenta.name=Пурпурная свеча
+candle.orange.name=Оранжевая свеча
+candle.white.name=Белая свеча
+
+vase.black.name=Чёрная ваза
+vase.red.name=Красная ваза
+vase.green.name=Зелёная ваза
+vase.brown.name=Коричневая ваза
+vase.blue.name=Синяя ваза
+vase.purple.name=Фиолетовая ваза
+vase.cyan.name=Бирюзовая ваза
+vase.lightGray.name=Светло-серая ваза
+vase.gray.name=Серая ваза
+vase.pink.name=Розовая ваза
+vase.lime.name=Лаймовая ваза
+vase.yellow.name=Жёлтая
+vase.lightBlue.name=Голубая ваза
+vase.magenta.name=Пурпурная ваза
+vase.orange.name=Оранжевая ваза
+vase.white.name=Белая ваза
+
+# Зелья
+
+potion.fcFortune=Удача
+potion.fcLooting=Добыча
+potion.fcTrueSight=Истинное зрение
+potion.hunger=Пищевое отравление
+
+# Контейнеры
+
+container.fcFurnaceBrick=Кирпичная печь
+container.fcHamper=Большая корзина
+container.fcMillStone=Жёрнов
+
+# Сущности
+
+entity.fcDireWolf.name=Зверь
+entity.fcJungleSpider.name=Тропический паук
+entity.WitherSkeleton.name=Визер-скелет
+entity.addonVillagerFarmer.name=Фермер
+entity.addonVillagerBlacksmith.name=Кузнец
+entity.addonVillagerButcher.name=Мясник
+entity.addonVillagerLibrarian.name=Библиотекарь
+entity.addonVillagerPriest.name=Священник
+
+# KeyBindings
+
+key.special=Альтернативное использование
+
+# Сообщения игроку
+
+item.fcItemWaterWheel.placementObstructed=Что-то загораживает место для водяного колеса - возможно, вы сами
+item.fcItemWaterWheel.notEnoughRoom=Недостаточно места для водяного колеса
+message.windMill.placementObstructed=Что-то загораживает место для ветряка - возможно, вы сами
+message.windMill.notEnoughRoom=Недостаточно места для ветряка (Эти штуки ОГРОМНЫ!)
+item.fcItemWindMillVertical.tooFewAxles=Недостаточно вертикальных валов для установки ветряка
+tile.beacon.playerBound=Вы привязались к этому маяку
+tile.beacon.invalid=Некорректное место возрождения
+tile.beacon.notPresent=Ваш маяк пропал
+tile.beacon.tooFar=Ваш маяк слишком далеко
+tile.beacon.obstructed=Доступ к вашему маяку затруднён
+tile.beacon.unknown=Неизвестная ошибка при возрождении
+tile.bed.sleepImpossible=Вы слишком встревожены, чтобы отдыхать
+tile.fcBlockHandCrank.playerExhausted=Вы слишком измотаны для ручного труда
+item.enchantedBook.languageUnfamiliar=Язык этого текста вам незнаком
+message.worldSpawn.failed=Не удалось создать нужный спавн в мире. Создайте новый мир с другим сидом или продолжите на свой риск
+message.death.newSpawn=Вас бросили по ветру...
+message.death.oldSpawn=Это место вам знакомо...
+
+# Сообщения о смерти
+
+death.attack.fcSaw=%1$s нашинкован пилой
+death.attack.fcChoppingBlock=%1$s положен на плаху
+death.attack.fcGroth=%1$s стал единым целым с желвью
+death.attack.fcGrothSpores=Иммунитет %1$s не справился со спорами желви
+death.attack.fcMelon=%1$s раздавлен арбузом
+death.attack.fcPumpkin=%1$s слишком буквально воспринял предложение надеть тыкву на голову
+death.attack.fcGloom=%1$s поглощён тьмой
+
+# Status effects
+
+status.invalid=Ошибка
+
+status.gloom.gloom=Мрак
+status.gloom.dread=Страх
+status.gloom.terror=Ужас
+
+status.hunger.peckish=Проголодался
+status.hunger.hungry=Голоден
+status.hunger.famished=Очень голоден
+status.hunger.emaciated=Бессилен
+status.hunger.starving=Истощён
+
+status.health.hurt=Ушиб
+status.health.injured=Травма
+status.health.wounded=Ранение
+status.health.crippled=Увечье
+status.health.dying=Гибель
+
+status.fat.plump=Полноватый
+status.fat.chubby=Пухлый
+status.fat.fat=Толстый
+status.fat.obese=Ожиревший
+
+# Commands
+
+commands.difficulty.usage=/difficulty [уровень сложности]
+commands.difficulty.unknown=Неизвестный уровень сложности
+commands.difficulty.current=Текущий уровень сложности - 
+commands.difficulty.set=Установлен уровень сложности - 
+
+# Menu strings
+
+selectWorld.difficulty=Сложность
+selectWorld.gameMode=Режим игры:
+selectWorld.gameMode.survival=Хардкорное выживание
+selectWorld.gameMode.survival.line1=Возрождение в случайном месте.
+selectWorld.gameMode.survival.line2=Когда ты умер, получи компас
+selectWorld.gameMode.survival.line3=чтобы вернуться к спавну.
+selectWorld.gameMode.creative.line1=Неограниченные ресурсы, свободный
+selectWorld.gameMode.creative.line2=полет, мгновенное разрушение
+selectWorld.gameMode.creative.line3=блоков.
+selectWorld.gameMode.survivalClassic=Выживание
+selectWorld.gameMode.survivalClassic.line1=Стандартное ванильное выживание.
+selectWorld.gameMode.survivalClassic.line2=Возрождение в точке спавна мира
+selectWorld.gameMode.survivalClassic.line3=когда вы умерли.
+
+deathScreen.respawnRandomly=Возродиться в случайном месте
+deathScreen.respawnNearby=Возродиться неподалеку
+
+options.lock_difficulty=Заблокировать сложность мира
+options.lock_difficulty.warning=Вы уверены что хотите заблокировать сложность? У вас не будет возможности изменить её снова
+
+options.borderlessFullscreen=Безрамочный полноэкранный режим
+
+difficulty.btw.standard.name=Нормальная
+difficulty.btw.standard.description=Обычный опыт.
+difficulty.btw.standard.description2=Рекомендуется тем, кому нужно
+difficulty.btw.standard.description3=обычное выживание.
+
+difficulty.btw.relaxed.name=Легкая
+difficulty.btw.relaxed.description=Более расслабленный опыт.
+difficulty.btw.relaxed.description2=Рекомендуется тем, кому нужно
+difficulty.btw.relaxed.description3=более легкое выживание.
+
+difficulty.btw.hostile.name=Сложная
+difficulty.btw.hostile.description=Куда более сложный опыт.
+difficulty.btw.hostile.description2=Рекомендуется тем, кому нужно
+difficulty.btw.hostile.description3=самое большое испытание.
+
+difficulty.btw.hostile_restricted.name=Сложная
+
+difficulty.btw.classic.name=Классическая
+difficulty.btw.classic.description=Старый опыт мода BTW.
+difficulty.btw.classic.description2=Возвращает мод к его техническим корням.
+difficulty.btw.classic.description3=Дает небольшое испытание выживания.
+
+# Attributes
+
+attribute.name.generic.armor=Броня
+attribute.name.generic.armorWeight=Вес брони
+attribute.name.generic.hungerCost=расход голода
+
+attribute.name.generic.hungerCost.tiny=Маленький
+attribute.name.generic.hungerCost.small=Небольшой
+attribute.name.generic.hungerCost.medium=Средний
+attribute.name.generic.hungerCost.large=Большой
+
+# Достижения
+
+achievementtab.getting_started=Начало
+achievementtab.iron_age=Железный век
+achievementtab.automation=Автоматизация
+achievementtab.end_game=Финал
+achievementtab.extras=Дополнительно
+
+achievement.btw.question_mark=Скрытое достижения
+achievement.btw.question_mark.desc=Детали получения этого достижения загадочные
+
+achievement.btw.find_reeds=Сахарная лихорадка
+achievement.btw.find_reeds.desc=Найти сахарный тростник на болоте или в джунглях
+
+achievement.btw.craft_wicker=Плети меня один
+achievement.btw.craft_wicker.desc=Сплети вместе немного сахарного тростника, чтобы создать плетенку
+
+achievement.btw.craft_basket=Время для пикника!
+achievement.btw.craft_basket.desc=Сделать корзину из плетенки
+
+achievement.btw.find_bones=Закостенел
+achievement.btw.find_bones.desc=Получить кость
+
+achievement.btw.craft_bone_club=Погнали дубасить!
+achievement.btw.craft_bone_club.desc=Один плюс один равнаятся РАЗГРОМУ!
+
+achievement.btw.killed_skeleton_with_club=Это был мой друг!
+achievement.btw.killed_skeleton_with_club.desc=Убить скелета костяной дубиной
+
+achievement.btw.craft_bone_hook=Капитанский крюк
+achievement.btw.craft_bone_hook.desc=Сломать кость
+
+achievement.btw.bait_fishing_rod=Рыбный бизнес
+achievement.btw.bait_fishing_rod.desc=Мгновенно насади наживу на удочку, используя приманку вместе с удочкой в хотбаре
+
+achievement.btw.find_shaft=Тебя надули
+achievement.btw.find_shaft.desc=Просто продолжай ударять это дерево
+
+achievement.btw.craft_wooden_club=Моё первое оружие
+achievement.btw.craft_wooden_club.desc=Создать деревянную дубину
+
+achievement.btw.craft_fire_plough=Три их жестко, три их хорошо
+achievement.btw.craft_fire_plough.desc=Создай ручное сверло из двух палок для добычи огня
+
+achievement.btw.craft_campfire=Время барбекю
+achievement.btw.craft_campfire.desc=Создай костер для готовки мяса
+
+achievement.btw.craft_pointy_stick=Не выколи себе глаза!
+achievement.btw.craft_pointy_stick.desc=Заостри палку
+
+achievement.btw.cook_meat=Что готовим, Док?
+achievement.btw.cook_meat.desc=Пожарь мясо в костре или печи
+
+achievement.btw.craft_knitting_needles=Режим бабушки разблокирован
+achievement.btw.craft_knitting_needles.desc=Использовать 2 заостренные палки для создания деревянных спиц
+
+achievement.btw.craft_wool_knit=Мягко и тепло
+achievement.btw.craft_wool_knit.desc=Поработай этими спицами!
+
+achievement.btw.equip_wool_armor=Спасаясь от холода
+achievement.btw.equip_wool_armor.desc=Одень немного брони из шерстяной ткани
+
+achievement.btw.craft_sharp_stone=Заостри свой камень
+achievement.btw.craft_sharp_stone.desc=Создай заостренный камень
+
+achievement.btw.find_string=Липкая ситуация
+achievement.btw.find_string.desc=Получи немного нитей от паука
+
+achievement.btw.place_tool=Засовываю его в...
+achievement.btw.place_tool.desc=Положи инструмент в подходящий блок, используя ctrl и ПКМ
+
+achievement.btw.craft_bedroll=Хороший ночлег
+achievement.btw.craft_bedroll.desc=Создай спальный мешок для пропуска ночи
+
+achievement.btw.craft_stone_shovel=Время копать!
+achievement.btw.craft_stone_shovel.desc=Создай каменную лопату
+
+achievement.btw.craft_wet_bricks=Формируя будущее
+achievement.btw.craft_wet_bricks.desc=Слепи сырой кирпич из глины
+
+achievement.btw.craft_stone_axe=Время рубить!
+achievement.btw.craft_stone_axe.desc=Создать каменный топор
+
+achievement.btw.craft_bow_drill=Сержант дрель
+achievement.btw.craft_bow_drill.desc=Создать лучковое сверло, которое добывает огонь быстрее
+
+achievement.btw.craft_bark_box=Думать о содержимом коробки
+achievement.btw.craft_bark_box.desc=Создать коробку из коры для ваших ценных вещей
+
+achievement.btw.craft_stone_hoe=Очень много работы
+achievement.btw.craft_stone_hoe.desc=Создать каменную мотыгу для начала фермерского пути
+
+achievement.btw.find_logs=Больше не ударять
+achievement.btw.find_logs.desc=Использовать топор чтобы срубить дерево
+
+achievement.btw.dry_bricks=Приготовленное солнцем глинянное печенье
+achievement.btw.dry_bricks.desc=Сделайте из глины кирпичи и дайте им высохнуть на солнце
+
+achievement.btw.craft_oven=Упечён
+achievement.btw.craft_oven.desc=Создать кирпичную печь из кирпичных плит
+
+achievement.btw.mine_iron_ore=Измельчённый
+achievement.btw.mine_iron_ore.desc=Добыть кусок железной руды
+
+achievement.btw.smelt_iron=Это что всё?
+achievement.btw.smelt_iron.desc=Переплавить кусок железной руды
+
+achievement.btw.craft_iron_chisel=Мой первый железный инструмент
+achievement.btw.craft_iron_chisel.desc=Создать железное зубило
+
+achievement.btw.make_work_stump=Тестирование
+achievement.btw.make_work_stump.desc=Создать пень-верстак, используя железное зубило на пне дерева
+
+achievement.btw.find_stone_brick=Квадратный
+achievement.btw.find_stone_brick.desc=Использовать железное зубило на камне, чтобы добыть каменный кирпич
+
+achievement.btw.craft_stone_pickaxe=Время идти в шахту
+achievement.btw.craft_stone_pickaxe.desc=Создать каменную кирку
+
+achievement.btw.craft_iron_ingot=Куй железо
+achievement.btw.craft_iron_ingot.desc=Создать железный слиток
+
+achievement.btw.mine_diamond_ore=Алмазы!
+achievement.btw.mine_diamond_ore.desc=Добыть немного алмазов
+
+achievement.btw.mine_redstone_ore=Спарки!
+achievement.btw.mine_redstone_ore.desc=Добыть немного редстоуна
+
+achievement.btw.power_the_cake=Ты знаешь чего ты хочешь
+achievement.btw.power_the_cake.desc=Power the Cake
+
+achievement.btw.craft_compass=Восстановление
+achievement.btw.craft_compass.desc=Добыть компас, чтобы найти свою оригинальную точку спавна
+
+#Iron Age Tab
+
+achievement.btw.iron_age=Железный век
+achievement.btw.iron_age.desc=Добыть железный слиток
+
+achievement.btw.equip_iron_armor=Оденься
+achievement.btw.equip_iron_armor.desc=Защитить себя с помощью элемента железной брони
+
+achievement.btw.craft_iron_pickaxe=И кирка без дела ржавеет
+achievement.btw.craft_iron_pickaxe.desc=Создать железную кирку
+
+achievement.btw.craft_iron_axe=Начинающий плотник
+achievement.btw.craft_iron_axe.desc=Создать железный топор
+
+achievement.btw.craft_iron_hoe=Время фермерства
+achievement.btw.craft_iron_hoe.desc=Создать железную мотыгу
+
+achievement.btw.craft_iron_shears=Чик-чик!
+achievement.btw.craft_iron_shears.desc=Создать железные ножницы. Они хороши для сбора конопли и других зеленых штук
+
+achievement.btw.find_hemp_seeds=Семенистое местечко
+achievement.btw.find_hemp_seeds.desc=Найти семена конопли, очищая траву мотыгой
+
+achievement.btw.harvest_hemp=Становление промышленным
+achievement.btw.harvest_hemp.desc=Собери верхнюю часть конопли
+
+achievement.btw.craft_planks=И это только начало
+achievement.btw.craft_planks.desc=Создать доски
+
+achievement.btw.craft_hamper=Корзина побольше
+achievement.btw.craft_hamper.desc=Создать большую корзину
+
+achievement.btw.craft_gear=Ускорение
+achievement.btw.craft_gear.desc=Создать шестерню
+
+achievement.btw.craft_millstone=В самом разгаре
+achievement.btw.craft_millstone.desc=Создать жёрнов
+
+achievement.btw.craft_hand_crank=Ручной бизнес
+achievement.btw.craft_hand_crank.desc=Создать ручной рычаг
+
+achievement.btw.grind_hemp_fibers=Нити получше
+achievement.btw.grind_hemp_fibers.desc=Перемолоть коноплю в жёрнове
+
+achievement.btw.craft_sail=Погоня за ветром
+achievement.btw.craft_sail.desc=Создать парус из ткани
+
+achievement.btw.craft_windmill=У меня кружится голова
+achievement.btw.craft_windmill.desc=Создать ветряк
+
+achievement.btw.boat_with_sail=В открытом море
+achievement.btw.boat_with_sail.desc=Использовать парус чтобы путешествовать на лодке быстрее
+
+achievement.btw.craft_cauldron=Не думай о костях в супе
+achievement.btw.craft_cauldron.desc=Создать котел
+
+achievement.btw.find_dung=Кто это тут оставил?
+achievement.btw.find_dung.desc=Найти навоз, оставленный волком
+
+achievement.btw.craft_tanned_leather=Получить тот летний загар
+achievement.btw.craft_tanned_leather.desc=Создать кусок выделанной кожи
+
+achievement.btw.craft_saw=Мастерский плотник
+achievement.btw.craft_saw.desc=Создать пилу
+
+achievement.btw.craft_chest=Посмотрите на все это место!
+achievement.btw.craft_chest.desc=Создать сундук
+
+achievement.btw.find_creeper_oysters=Deez Nuts
+achievement.btw.find_creeper_oysters.desc=Snip an Oyster off a Creeper
+
+achievement.btw.find_diamonds=Алмазы!
+achievement.btw.find_diamonds.desc=Добыть немного алмазов
+
+achievement.btw.craft_diamond_ingot=Блестящий!
+achievement.btw.craft_diamond_ingot.desc=Создать алмазный слиток
+
+achievement.btw.listen_to_music=Время пошуметь
+achievement.btw.listen_to_music.desc=Послушать музыкальный диск
+
+achievement.btw.craft_diamond_pick=Копать глубже
+achievement.btw.craft_diamond_pick.desc=Создать алмазную кирку
+
+achievement.btw.equip_diamond_armor=Осыпь меня алмазами
+achievement.btw.equip_diamond_armor.desc=Одеть элемент алмазной брони
+
+achievement.btw.find_obsidian=Две стихии
+achievement.btw.find_obsidian.desc=Добыть блок обсидиана
+
+achievement.btw.enter_nether=Огненные недра
+achievement.btw.enter_nether.desc=Войти в незер
+
+achievement.btw.craft_hopper=Запрыгивай на это
+achievement.btw.craft_hopper.desc=Создать воронку
+
+achievement.btw.make_hellfire_dust=Свободные души
+achievement.btw.make_hellfire_dust.desc=Отфильтруй молотый незерак в пыль адского пламени
+
+achievement.btw.find_blaze_rod=В полымя
+achievement.btw.find_blaze_rod.desc=Добыть стержень ифрита
+
+achievement.btw.locate_fortress_with_pile=Шепот крепости
+achievement.btw.locate_fortress_with_pile.desc=Использовать пыль песка душ, чтобы узнать местоположение ближайшей адской крепости
+
+achievement.btw.use_emerald_pile=Тропа торговли
+achievement.btw.use_emerald_pile.desc=Использовать изумрудную пыль, чтобы узнать местоположение ближайших деревень
+
+achievement.btw.use_diamond_pile=Тропа сокровищ
+achievement.btw.use_diamond_pile.desc=Использовать алмазную пыль, чтобы узнать местоположение ближайших хижин ведьм и пустынных храмов
+
+achievement.btw.craft_nether_coal=Лучшие факела
+achievement.btw.craft_nether_coal.desc=Создать адский уголь
+
+achievement.btw.craft_hibachi=Огонь по требованию
+achievement.btw.craft_hibachi.desc=Создать хибачи
+
+achievement.btw.craft_turntable=Кружится голова
+achievement.btw.craft_turntable.desc=Создать поворотный стол
+
+achievement.btw.craft_bellows=Надуй меня
+achievement.btw.craft_bellows.desc=Создать меха
+
+achievement.btw.stoke_fire=Разжигая пламя
+achievement.btw.stoke_fire.desc=Использовать меха, чтобы разжечь хибачи
+
+achievement.btw.spin_pottery=Талант гончара
+achievement.btw.spin_pottery.desc=Преврати глину на поворотном столе в гончарное изделие
+
+achievement.btw.craft_crucible=Время переработки!
+achievement.btw.craft_crucible.desc=Приготовь необожжённый тигель в большой печи
+
+achievement.btw.craft_planter=Рост конопли без сорняков?!
+achievement.btw.craft_planter.desc=Положи рыхлую землю в плантатор, чтобы выращивать урожай без сорняков
+
+achievement.btw.craft_urn=Готово к сбору
+achievement.btw.craft_urn.desc=Приготовь необожжённую урну в большой печи
+
+achievement.btw.craft_soul_urn=Закроем бутылки!
+achievement.btw.craft_soul_urn.desc=Поставить урну под заряженной воронкой, чтобы собирать души
+
+achievement.btw.craft_water_wheel=Мощь воды
+achievement.btw.craft_water_wheel.desc=Создать водяное колесо
+
+achievement.btw.craft_dynamite=С лазерным лучом!
+achievement.btw.craft_dynamite.desc=Создать динамит
+
+# achievement.btw.redneck_fishing=
+achievement.btw.redneck_fishing.desc=Throw Dynamite into a Lake to get Fish
+
+achievement.btw.blew_up_with_blasting_oil=Подорван
+achievement.btw.blew_up_with_blasting_oil.desc=Взорвите себя нитроглицерином. Упс!
+
+#Automation Tab
+
+achievement.btw.craft_piston=Спрессовать
+achievement.btw.craft_piston.desc=Создать поршень
+
+achievement.btw.make_packed_earth=Твердая летающая земля!
+achievement.btw.make_packed_earth.desc=Использовать поршень, чтобы упаковать 2 блока рыхлой земли в 1
+
+achievement.btw.use_piston_shovel=Загребая его в...
+achievement.btw.use_piston_shovel.desc=Использовать ковш для поршня чтобы поднимать блоки
+
+achievement.btw.craft_nether_plant=Оно живое!
+achievement.btw.craft_nether_plant.desc=Создать новую жизнь
+
+achievement.btw.fertilize_nether_plant=Питающие души
+achievement.btw.fertilize_nether_plant.desc=Накорми новое создание с помощью урны душ
+
+achievement.btw.anger_pigmen_with_plants=Это воняет и им это не нравится!
+achievement.btw.anger_pigmen_with_plants.desc=Разозли свинозомби, поставив адскую желвь или кровавое дерево
+
+achievement.btw.cure_villager=Доктор для зомби
+achievement.btw.cure_villager.desc=Верни душу зомби-жителю
+
+achievement.btw.traded_with_butcher=Ученик мясника
+achievement.btw.traded_with_butcher.desc=Поторгуйся с мясником
+
+achievement.btw.max_level_butcher=Мастерский мясник
+achievement.btw.max_level_butcher.desc=Улучши мясника до максимального уровня
+
+achievement.btw.traded_with_priest=Ученик священника
+achievement.btw.traded_with_priest.desc=Поторгуйся со священником
+
+achievement.btw.max_level_priest=Мастерский священник
+achievement.btw.max_level_priest.desc=Улучши священника до максимального уровня
+
+achievement.btw.traded_with_librarian=Ученик библиотекаря
+achievement.btw.traded_with_librarian.desc=Поторгуйся с библиотекарем
+
+achievement.btw.max_level_librarian=Мастерский библиотекарь
+achievement.btw.max_level_librarian.desc=Улучши библиотекаря до максимального уровня
+
+achievement.btw.make_companion_cube=Лучшие друзья навсегда
+achievement.btw.make_companion_cube.desc=Преврати волка в куб-компаньон
+
+achievement.btw.make_companion_slab=Более компактный друг
+achievement.btw.make_companion_slab.desc=Преврати своего друга в плиту
+
+achievement.btw.poke_companion=Достойный удара друг
+achievement.btw.poke_companion.desc=Заставь своего лучшего друга подержать меч вместо тебя
+
+achievement.btw.traded_with_blacksmith=Ученик кузнеца
+achievement.btw.traded_with_blacksmith.desc=Поторгуйся с кузнецом
+
+achievement.btw.max_level_blacksmith=Мастерский кузнец
+achievement.btw.max_level_blacksmith.desc=Улучши кузнеца до максимального уровня
+
+achievement.btw.traded_with_farmer=Ученик фермера
+achievement.btw.traded_with_farmer.desc=Поторгуйся с фермером
+
+achievement.btw.max_level_farmer=Мастерский фермер
+achievement.btw.max_level_farmer.desc=Улучши фермера до максимального уровня
+
+achievement.btw.toss_the_milk=Взбить молоко
+achievement.btw.toss_the_milk.desc=Взбить молоко
+
+achievement.btw.get_runed_skull=Бедный Йорик!
+achievement.btw.get_runed_skull.desc=Получить рунный череп
+
+achievement.btw.get_infused_skull=Теперь глаза светятся!
+achievement.btw.get_infused_skull.desc=Преврати рунный череп в зачарованный
+
+achievement.btw.summon_wither=Иссушающие высоты
+achievement.btw.summon_wither.desc=Призови визера
+
+achievement.btw.killed_wither=Иссохший
+achievement.btw.killed_wither.desc=Победи визера
+
+achievement.btw.crafted_beacon=Верни маяк домой
+achievement.btw.crafted_beacon.desc=Создай маяк
+
+achievement.btw.find_dormant_soulforge=Тсссс, оно спит...
+achievement.btw.find_dormant_soulforge.desc=Найти спящую кузницу душ
+
+achievement.btw.convert_soulforge=Разбуди кузницу
+achievement.btw.convert_soulforge.desc=Разбуди спящую кузницу душ
+
+achievement.btw.convert_eyes_of_ender=Всевидящее око
+achievement.btw.convert_eyes_of_ender.desc=Поторгуй эндер-жемчугами для глаз эндера
+
+achievement.btw.enter_end=Конец?
+achievement.btw.enter_end.desc=Войти в энд
+
+#End Game Tab
+
+achievement.btw.killed_dragon=Освободите энд
+achievement.btw.killed_dragon.desc=Победить драконов края
+
+achievement.btw.craft_steel=Tougher Than Diamonds
+achievement.btw.craft_steel.desc=Obtain a Soulforged Steel Ingot
+
+achievement.btw.craft_steel_combo_tool=Refined Tools!
+achievement.btw.craft_steel_combo_tool.desc=Obtain a Mattock or a Battleaxe to save inventory space
+
+achievement.btw.equip_steel_armor=Cover Me in Souls
+achievement.btw.equip_steel_armor.desc=Одеть элемент брони из стали душ
+
+achievement.btw.craft_infernal_enchanter=Тёмные ритуалы
+achievement.btw.craft_infernal_enchanter.desc=Создать инфернальный зачарователь
+
+achievement.btw.use_infernal_enchanter=Ученик свитка
+achievement.btw.use_infernal_enchanter.desc=Использовать чародейский свиток на инфернальном зачарователе
+
+achievement.btw.max_infernal_enchant=Мастер свиток
+achievement.btw.max_infernal_enchant.desc=Получи максимальный уровень зачарования предмета, использовав свиток
+
+achievement.btw.max_steel_beacon=Финал
+achievement.btw.max_steel_beacon.desc=Создай стальной маяк 4 уровня
+
+achievement.btw.steel_beacon_respawn_across_dimensions=Вокруг 2го измерения
+achievement.btw.steel_beacon_respawn_across_dimensions.desc=Возродись у стального маяка в другом измерении
+
+achievement.btw.get_bootsies=Лучше, чем носки
+achievement.btw.get_bootsies.desc=Создай пару ботинок
+
+achievement.btw.eatOysters=Острая закуска
+achievement.btw.eatOysters.name=Съешь ракушки крипера
+# Whatever it is, the taste is explosive / Better than Caviar
+
+achievement.btw.cleanFarmer=Не роняй его!
+achievement.btw.cleanFarmer.desc=Продай мыло грязному фермеру, чтобы очистить его
+
+# achievement.btw.milkBucket=Ведро молока
+# achievement.btw.milkBucket.desc=Выпей ведро молока
+
+achievement.btw.eatMysteryMeat=Светло-зеленый
+achievement.btw.eatMysteryMeat.desc="Расскажи всем. Послушай меня, Хэтчер! Ты должен им рассказать!"
+
+# achievement.btw.eatStew=
+# achievement.btw.eatStew.desc=
+
+# Extras Tab
+
+achievement.btw.possess_entity=Душам нужен дом
+achievement.btw.possess_entity.desc=Дай животному (или жителю, мы не судим) душу проклятого
+
+achievement.btw.possess_entity_with_death=С места на место
+achievement.btw.possess_entity_with_death.desc=Убей животое, получившее души проклятого, чтобы они нашли новое место
+
+achievement.btw.possess_chicken=Просто подожди...
+achievement.btw.possess_chicken.desc=Дай курице душу проклятого
+
+achievement.btw.possessed_chicken_explodes=Взрыв!
+achievement.btw.possessed_chicken_explodes.desc=Взорвите курицу на слишком много перьев
+
+achievement.btw.possess_cow=У молока прикольный вкус...
+achievement.btw.possess_cow.desc=Дай корове душу проклятого
+
+achievement.btw.cow_mutant_birth=Еще больше проклятий!
+achievement.btw.cow_mutant_birth.desc=Размножь коров, получивших души проклятых
+
+achievement.btw.possess_wolf=Должна ли его голова это делать?
+achievement.btw.possess_wolf.desc=Дай волку душу проклятого
+
+achievement.btw.possess_squid_with_wolf=Теперь вы мыслите душами
+achievement.btw.possess_squid_with_wolf.desc=Дай душу проклятого спруту, используя волка... надеюсь, это было сделано специально!
+achievement.btw.squid_transforms_into_ghast=Они не счастливы
+achievement.btw.squid_transforms_into_ghast.desc=Преврати кальмара в гаста, дав ему душу проклятого
+achievement.btw.possess_sheep=Легче, чем воздух
+achievement.btw.possess_sheep.desc=Дай овце душу проклятого
+
+achievement.btw.shear_possessed_sheep_with_block_dispenser=Чудо механической резки
+achievement.btw.shear_possessed_sheep_with_block_dispenser.desc=Постриги овцу, получившую душу проклятого с помощью ножниц и раздатчика блоков, пока она летает
+
+achievement.btw.lead_possessed_sheep=Человек-шар
+achievement.btw.lead_possessed_sheep.desc=Веди летающую овцу
+
+achievement.btw.sheep_dive_bomb=Природа исцеляет
+achievement.btw.sheep_dive_bomb.desc=Станьте свидетелем того, как овца отдает душу проклятого
+
+achievement.btw.possess_pig=Хрюкающее безумие
+achievement.btw.possess_pig.desc=Дай свинье душу проклятого
+
+achievement.btw.possess_horse=Отправляемся на фабрику клея
+achievement.btw.possess_horse.desc=Дай лошади душу проклятого
+
+achievement.btw.possess_villager=Это нечестно
+achievement.btw.possess_villager.desc=Дай жителю душу проклятого
+
+# achievement.btw.killBeast=
+# achievement.btw.killBeast.desc=
+
+# Possible secret achievements:
+# Activate a tier 4 diamond / emerald / soulforge beacon. soulforge could also be the final achievement in main line
+# get a rare sheep mutation proc
+# toss the milk
