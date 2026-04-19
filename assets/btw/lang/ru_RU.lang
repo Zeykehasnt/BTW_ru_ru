@@ -6,21 +6,21 @@ tile.fcBlockSilverfishStone3.name=Заражённый камень
 tile.fcBlockSilverfishCobblestone.name=Заражённый булыжник
 tile.fcBlockSilverfishStoneBrick.name=Заражённые каменные кирпичи
 tile.fcBlockSilverfishStoneBrickMossy.name=Заражённые замшелые каменные кирпичи
-tile.fcBlockSilverfishStoneCracked.name=Заражённые потресканные каменные кирпичи
+tile.fcBlockSilverfishStoneCracked.name=Заражённые потрескавшиеся каменные кирпичи
 tile.fcBlockSilverfishStoneChiseled.name=Заражённые резные каменные кирпичи
 
-tile.fcBlockSilverfishStone.deepslate.name=Заражённый глубинный сланец
-tile.fcBlockSilverfishCobblestone.deepslate.name=Заражённый колотый глубинный сланец
-tile.fcBlockSilverfishStoneBrick.deepslate.name=Заражённые глубинносланцевые кирпичи
-tile.fcBlockSilverfishStoneBrickMossy.deepslate.name=Заражённые замшелые глубинносланцевые кирпичи
-tile.fcBlockSilverfishStoneCracked.deepslate.name=Заражённые потресканные глубинносланцевые кирпичи
-tile.fcBlockSilverfishStoneChiseled.deepslate.name=Заражённые резные глубинносланцевые кирпичи
+tile.fcBlockSilverfishStone.deepslate.name=Заражённый сланец
+tile.fcBlockSilverfishCobblestone.deepslate.name=Заражённый колотый сланец
+tile.fcBlockSilverfishStoneBrick.deepslate.name=Заражённые сланцевые кирпичи
+tile.fcBlockSilverfishStoneBrickMossy.deepslate.name=Заражённые замшелые сланцевые кирпичи
+tile.fcBlockSilverfishStoneCracked.deepslate.name=Заражённые потрескавшиеся соанцевые кирпичи
+tile.fcBlockSilverfishStoneChiseled.deepslate.name=Заражённые резные сланцевые кирпичи
 
 tile.fcBlockSilverfishStone.blackstone.name=Заражённый чернит
 tile.fcBlockSilverfishCobblestone.blackstone.name=Заражённый колотый чернит
 tile.fcBlockSilverfishStoneBrick.blackstone.name=Заражённые чернитные кирпичи
 tile.fcBlockSilverfishStoneBrickMossy.blackstone.name=Заражённый замшелые чернитные кирпичи
-tile.fcBlockSilverfishStoneCracked.blackstone.name=Заражённые потресканные чернитные кирпичи
+tile.fcBlockSilverfishStoneCracked.blackstone.name=Заражённые потрескавшиеся чернитные кирпичи
 tile.fcBlockSilverfishStoneChiseled.blackstone.name=Заражённые резные чернитные кирпичи
 
 
@@ -33,12 +33,12 @@ tile.stone.stone.name=Блок камня
 tile.stoneSlab.stone.name=Каменная плита
 tile.fcBlockSmoothstoneStairs.stone.name=Каменные ступеньки
 
-tile.fcBlockStoneRough.name=Дроблённая порода
+tile.fcBlockStoneRough.name=Дроблёная порода
 
 tile.fcStoneSiding.stone.name=Обшивки и уголки
 
 tile.fcStoneSiding.stone.siding.name=Каменная обшивка
-tile.fcStoneSiding.stone.corner.nameКаменный уголок
+tile.fcStoneSiding.stone.corner.name=Каменный уголок
 tile.fcStoneSiding.stone.bench.name=Каменная скамья
 tile.fcStoneSiding.stone.fence.name=Каменная ограда
 
@@ -147,10 +147,10 @@ tile.fcDeepslateBrickSiding.siding.name=Обшивка из сланцевого
 tile.fcDeepslateBrickSiding.corner.name=Уголок из сланцевого кирпича
 tile.fcDeepslateBrickSiding.bench.name=Скамья из сланцевого кирпича
 tile.fcDeepslateBrickSiding.fence.name=Ограда из сланцевого кирпича
-tile.fcDeepslateBrickMoulding.name=Брус из сланцевого кирпича
+
+tile.fcDeepslateBrickMoulding.name=Брусы и декорации
 
 tile.fcDeepslateBrickMoulding.moulding.name=Брус из сланцевого кирпича
-
 tile.fcDeepslateBrickMoulding.column.name=Колонна из сланцевого кирпича
 tile.fcDeepslateBrickMoulding.pedestal.name=Пьедестал из сланцевого кирпича
 tile.fcDeepslateBrickMoulding.table.name=Стол из сланцевого кирпича
@@ -175,7 +175,7 @@ tile.fcStoneSiding.blackstone.name=Обшивки и уголки
 
 tile.fcStoneSiding.blackstone.siding.name=Чернитная обшивка
 tile.fcStoneSiding.blackstone.corner.name=Чернитный уголок
-tile.fcStoneSiding.blackstone.bench.name=Чернитный стол
+tile.fcStoneSiding.blackstone.bench.name=Чернитная скамья
 tile.fcStoneSiding.blackstone.fence.name=Чернитная ограда
 
 tile.fcStoneMoulding.blackstone.name=Брусы и декорации
@@ -600,9 +600,9 @@ tile.fcBlockLightBlock.name=Осветительный блок
 
 tile.fcBlockCement.name=Цемент
 
-tile.fcBlockWoodOakMoulding.name=УУстаревшевший брус
-tile.fcBlockWoodOakMoulding.moulding.name=УУстаревшевший брус
-tile.fcBlockCorner.name=УУстаревшевший уголок
+tile.fcBlockWoodOakMoulding.name=Устаревший брус
+tile.fcBlockWoodOakMoulding.moulding.name=Устаревший брус
+tile.fcBlockCorner.name=Устаревший уголок
 
 tile.fcBlockCauldron.name=Котёл
 
@@ -618,7 +618,7 @@ tile.fcBlockAxlePowerSource.name=Вращающийся вал
 tile.fcBlockGearBox.name=Коробка передач
 tile.fcBlockTurntable.name=Поворотный стол
 tile.fcBlockBellows.name=Меха
-tile.fcBlockStokedFire.name=Разожённый огонь
+tile.fcBlockStokedFire.name=Разожжённый огонь
 tile.fcBlockUnfiredPottery.name=Необожжённое гончарное изделие
 tile.fcBlockUnfiredPottery.crucible.name=Необожжённый тигель
 tile.fcBlockUnfiredPottery.planter.name=Необожжённый вазон
@@ -897,8 +897,8 @@ item.fcItemLeatherScoured.name=Обработанная кожа
 item.fcItemLeatherTanned.name=Дублёная кожа
 
 item.fcItemLeatherCut.name=Разрезанная кожа
-item.fcItemLeatherTannedCut.name=Разрезанная обработанная кожа
-item.fcItemLeatherScouredCut.name=Разрезанная дублёная кожа
+item.fcItemLeatherTannedCut.name=Разрезанная дублёная кожа
+item.fcItemLeatherScouredCut.name=Разрезанная обработанная кожа
 
 item.fcItemGimpHelm.name=Своеобразная маска
 item.fcItemGimpChest.name=Своеобразный жилет
@@ -1241,47 +1241,47 @@ commands.difficulty.set=Установлен уровень сложности -
 
 selectWorld.difficulty=Сложность
 selectWorld.gameMode=Режим игры:
-selectWorld.gameMode.survival=Хардкорное выживание
-selectWorld.gameMode.survival.line1=Возрождение в случайном месте.
-selectWorld.gameMode.survival.line2=Когда ты умер, получи компас
-selectWorld.gameMode.survival.line3=чтобы вернуться к спавну.
-selectWorld.gameMode.creative.line1=Неограниченные ресурсы, свободный
-selectWorld.gameMode.creative.line2=полет, мгновенное разрушение
-selectWorld.gameMode.creative.line3=блоков.
+selectWorld.gameMode.survival=Выживалово
+selectWorld.gameMode.survival.line1=Возрождение в случайном
+selectWorld.gameMode.survival.line2=месте. Создайте компасс
+selectWorld.gameMode.survival.line3=чтобы вернуться к обратно.
+selectWorld.gameMode.creative.line1=Полная свобода действий.
+selectWorld.gameMode.creative.line2=Возможность полета и
+selectWorld.gameMode.creative.line3=мгновенное ломание.
 selectWorld.gameMode.survivalClassic=Выживание
-selectWorld.gameMode.survivalClassic.line1=Стандартное ванильное выживание.
-selectWorld.gameMode.survivalClassic.line2=Возрождение в точке спавна мира
-selectWorld.gameMode.survivalClassic.line3=когда вы умерли.
+selectWorld.gameMode.survivalClassic.line1=Стандартное выживание.
+selectWorld.gameMode.survivalClassic.line2=Возрождение в точке
+selectWorld.gameMode.survivalClassic.line3=спавна мира.
 
 deathScreen.respawnRandomly=Возродиться в случайном месте
-deathScreen.respawnNearby=Возродиться неподалеку
+deathScreen.respawnNearby=Возродиться поблизости
 
 options.lock_difficulty=Заблокировать сложность мира
 options.lock_difficulty.warning=Вы уверены что хотите заблокировать сложность? У вас не будет возможности изменить её снова
 
-options.borderlessFullscreen=Безрамочный полноэкранный режим
+options.borderlessFullscreen=Безрамочный экран
 
-difficulty.btw.standard.name=Нормальная
-difficulty.btw.standard.description=Обычный опыт.
-difficulty.btw.standard.description2=Рекомендуется тем, кому нужно
-difficulty.btw.standard.description3=обычное выживание.
+difficulty.btw.standard.name=Стандарт
+difficulty.btw.standard.description=Стандартный игровой опыт.
+difficulty.btw.standard.description2=Рекомендуется тем, кто
+difficulty.btw.standard.description3=ищет неплохой вызов.
 
-difficulty.btw.relaxed.name=Легкая
-difficulty.btw.relaxed.description=Более расслабленный опыт.
-difficulty.btw.relaxed.description2=Рекомендуется тем, кому нужно
-difficulty.btw.relaxed.description3=более легкое выживание.
+difficulty.btw.relaxed.name=Облегчённая
+difficulty.btw.relaxed.description=Облегчённый игровой опыт.
+difficulty.btw.relaxed.description2=Рекомендуется тем, кому
+difficulty.btw.relaxed.description3=не по душе напряжение.
 
-difficulty.btw.hostile.name=Сложная
-difficulty.btw.hostile.description=Куда более сложный опыт.
-difficulty.btw.hostile.description2=Рекомендуется тем, кому нужно
-difficulty.btw.hostile.description3=самое большое испытание.
+difficulty.btw.hostile.name=Враждебная
+difficulty.btw.hostile.description=Усложнённый игровой опыт.
+difficulty.btw.hostile.description2=Рекомендуется тем, кто
+difficulty.btw.hostile.description3=ищет достойный вызов.
 
-difficulty.btw.hostile_restricted.name=Сложная
+difficulty.btw.hostile_restricted.name=Враждебная
 
-difficulty.btw.classic.name=Классическая
-difficulty.btw.classic.description=Устаревший опыт мода BTW.
-difficulty.btw.classic.description2=Возвращает мод к его техническим корням.
-difficulty.btw.classic.description3=Дает небольшое испытание выживания.
+difficulty.btw.classic.name=Классика
+difficulty.btw.classic.description=Старый добрый BTW.
+difficulty.btw.classic.description2=Возвращает мод к истокам.
+difficulty.btw.classic.description3=Минимальное усложнение.
 
 # Attributes
 
