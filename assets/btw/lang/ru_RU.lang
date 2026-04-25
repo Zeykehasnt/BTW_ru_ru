@@ -766,7 +766,7 @@ tile.fcBlockTorchNetherBurning.name=Горящий факел
 
 # Ранняя игра
 
-item.fcItemChiselWood.name=Заострённая палка
+item.fcItemChiselWood.name=Заострённое древко
 item.fcItemChiselStone.name=Заострённый камень
 item.fcItemClub.name=Деревянная дубина
 item.fcItemClubBone.name=Костяная дубина
@@ -922,7 +922,7 @@ item.cauldron.name=Бак
 item.mushroomStew.name=Грибной крем-суп
 item.enchantedBook.name=Древний манускрипт
 # item.fireworks.name=Damp Firework
-item.stick.name=Палка
+item.stick.name=Древко
 item.fermentedSpiderEye.name=Ядовитая железа
 item.dyePowder.brown.name=Какао-порошок
 item.skull.wither.name=Рунный череп
@@ -992,22 +992,22 @@ woolSlab.magenta.name=Пурпурная шерстяная плита
 woolSlab.orange.name=Оранжевая шерстяная плита
 woolSlab.white.name=Белая шерстяная плита
 
-woolKnit.black.name=Чёрная ткань
-woolKnit.red.name=Красная ткань
-woolKnit.green.name=Зелёная ткань
-woolKnit.brown.name=Коричневая ткань
-woolKnit.blue.name=Синяя ткань
-woolKnit.purple.name=Фиолетовая ткань
-woolKnit.cyan.name=Бирюзовая ткань
-woolKnit.lightGray.name=Светло-серая ткань
-woolKnit.gray.name=Серая ткань
-woolKnit.pink.name=Розовая ткань
-woolKnit.lime.name=Лаймовая ткань
-woolKnit.yellow.name=Жёлтая ткань
-woolKnit.lightBlue.name=Голубая ткань
-woolKnit.magenta.name=Пурпурная ткань
-woolKnit.orange.name=Оранжевая ткань
-woolKnit.white.name=Белая ткань
+woolKnit.black.name=Чёрный трикотаж
+woolKnit.red.name=Красный трикотаж
+woolKnit.green.name=Зелёный трикотаж
+woolKnit.brown.name=Коричневый трикотаж
+woolKnit.blue.name=Синий трикотаж
+woolKnit.purple.name=Фиолетовый трикотаж
+woolKnit.cyan.name=Бирюзовый трикотаж
+woolKnit.lightGray.name=Светло-серый трикотаж
+woolKnit.gray.name=Серый трикотаж
+woolKnit.pink.name=Розовый трикотаж
+woolKnit.lime.name=Лаймовый трикотаж
+woolKnit.yellow.name=Жёлтый трикотаж
+woolKnit.lightBlue.name=Голубой трикотаж
+woolKnit.magenta.name=Пурпурный трикотаж
+woolKnit.orange.name=Оранжевый трикотаж
+woolKnit.white.name=Белый трикотаж
 
 candle.black.name=Чёрная свеча
 candle.red.name=Красная свеча
@@ -1252,7 +1252,7 @@ achievement.btw.find_shaft.desc=Не унывайте и продолжайте 
 achievement.btw.craft_wooden_club=Моё первое оружие
 achievement.btw.craft_wooden_club.desc=Создайте деревянную дубину
 
-achievement.btw.craft_fire_plough=Три их жестко, три их хорошо
+achievement.btw.craft_fire_plough=Всё перетрут
 achievement.btw.craft_fire_plough.desc=Создайте ручное сверло из двух древок, чтобы разжечь огонь
 
 achievement.btw.craft_campfire=Время эпичной жратвы
