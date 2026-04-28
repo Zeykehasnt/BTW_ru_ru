@@ -382,7 +382,7 @@ item.fcItemBootsPlate.name=Латные сабатоны
 
 item.fcItemChunkIronOre.name=Железный самородок
 item.fcItemNuggetIron.name=Кусочек железа
-item.fcItemPileIronOre.name=Железная пыль
+item.fcItemPileIronOre.nameГорсть железная пыли
 item.fcItemChiselIron.name=Железное зубило
 item.fcItemMetalFragment.name=Металлолом
 item.shears.name=Железные ножницы
@@ -396,7 +396,7 @@ item.fcItemMail.name=Кольчужное плетение
 # ЗОЛОТО
 
 item.fcItemChunkGoldOre.name=Золотой самородок
-item.fcItemPileGoldOre.name=Золотая пыль
+item.fcItemPileGoldOre.name=Горсть золотой пыли
 tile.fcBlockChunkOreStorageGold.name=Блок рудного золота
 tile.fcBlockLightningRod.name=Золотой громоотвод
 
@@ -582,13 +582,13 @@ tile.fcBlockAestheticOpaque.barrel.name=Бочка
 # Горсти, пыли и т.д.
 
 item.fcItemDustSaw.name=Опилки
-item.fcItemDustSoul.name=Пыль душ
+item.fcItemDustSoul.name=Горсть пыли душ
 item.fcItemBrimstone.name=Сера
 item.fcItemPileDirt.name=Горсть земли
 item.fcItemPileSand.name=Горсть песка
 item.fcItemPileGravel.name=Горсть гравия
 item.fcItemPileSoulSand.name=Горсть песка душ
-item.fcItemPileEmerald.name=Изумрудная пыль
+item.fcItemPileEmerald.name=Горсть изумрудной пыли
 item.fcItemPileClay.name=Горсть глины
 
 # Душниловка
@@ -631,7 +631,7 @@ item.fcItemCandle.name=Свеча
 item.fcItemSporesNetherGroth.name=Споры адской плесни
 item.fcItemMould.name=Литейная форма
 item.fcItemCanvas.name=Холст
-item.fcItemCorpseEye.name=Глаз мертвеца
+item.fcItemCorpseEye.name=Око мертвеца
 
 # Бум
 
@@ -651,7 +651,7 @@ item.fcItemPaddedBoots.name=Ботинки из набивки
 
 item.fcItemPotash.name=Поташ
 item.fcItemNetherSludge.name=Адский шлам
-item.fcItemNetherrackGround.name=Адская мука
+item.fcItemNetherrackGround.name=Горсть адской муки
 item.fcItemDustHellfire.name=Пыль адского пламени
 item.fcItemConcentratedHellfire.name=Концентрированное адское пламя
 
@@ -659,7 +659,7 @@ item.fcItemConcentratedHellfire.name=Концентрированное адск
 
 item.fcItemKibble.name=Собачий корм
 item.fcItemFoulFood.name=Мерзкое варево
-item.fcItemChickenFeed.name=Корм для кур
+item.fcItemChickenFeed.name=Куриный корм
 
 # Мерзкая дичь
 
@@ -669,7 +669,7 @@ item.fcItemHarnessBreeding.name=Упряжь для разведения
 
 # Едо
 
-item.fcItemMeatBurned.name=Сожжённое мясо
+item.fcItemMeatBurned.name=Горелое мясо
 item.fcItemMeatCured.name=Вяленое мясо
 
 item.fcItemCarrotCooked.name=Варёная морковь
@@ -739,12 +739,12 @@ item.fcItemWool.name=Шерсть
 item.fcItemWoolHelm.name=Шерстяная шапочка
 item.fcItemWoolChest.name=Шерстяной жакет
 item.fcItemWoolLeggings.name=Шерстяные штаны
-item.fcItemWoolBoots.name=Шерстяные носки
+item.fcItemWoolBoots.name=Шерстяные валенки
 
 # Энд
 
 item.fcItemSoulFlux.name=Флюс душ
-item.fcItemEnderSlag.name=Шлак из эндерняка
+item.fcItemEnderSlag.name=Шлак Края
 
 # Что-то полезное
 
@@ -757,7 +757,7 @@ item.fcItemBedroll.name=Спальный мешок
 
 # Угли и факела
 
-item.fcItemDustCoal.name=Угольная пыль
+item.fcItemDustCoal.name=Горсть угольной пыли
 item.fcItemNethercoal.name=Адский уголь
 tile.fcBlockTorchFiniteIdle.name=Незажжённый примитивный факел
 tile.fcBlockTorchFiniteBurning.name=Горящий примитивный факел
@@ -918,9 +918,9 @@ tile.fcWoodJungleSiding.blood.fence.name=Забор из кровавого де
 
 # ВАНИЛЬНЫЕ БЛОКИ
 
-item.cauldron.name=Бак
+item.cauldron.name=Чан
 item.mushroomStew.name=Грибной крем-суп
-item.enchantedBook.name=Древний манускрипт
+item.enchantedBook.name=Старинная рукопись
 # item.fireworks.name=Damp Firework
 item.stick.name=Древко
 item.fermentedSpiderEye.name=Ядовитая железа
@@ -946,7 +946,6 @@ tile.quartzBlock.lines.name=Кварцевый пилон
 
 tile.pumpkin.name=Вырезанная тыква
 
-# Это будет весело
 tile.netherrack.name=Адский камень
 tile.portal.name=Адский портал
 
@@ -1105,13 +1104,13 @@ message.death.oldSpawn=Это место вам знакомо...
 
 # СМЕРТИ
 
-death.attack.fcSaw=%1$s нашинкован пилой
-death.attack.fcChoppingBlock=%1$s положен на плаху
-death.attack.fcGroth=%1$s стал единым целым с желвью
-death.attack.fcGrothSpores=Иммунитет %1$s не справился со спорами желви
-death.attack.fcMelon=%1$s раздавлен арбузом
+death.attack.fcSaw=%1$s был распилен пополам
+death.attack.fcChoppingBlock=%1$s был положен на плаху
+death.attack.fcGroth=%1$s стал единым целым с плеснью
+death.attack.fcGrothSpores=Иммунитет %1$s не справился со спорами плесни
+death.attack.fcMelon=%1$s был раздавлен арбузом
 death.attack.fcPumpkin=%1$s слишком буквально воспринял предложение надеть тыкву на голову
-death.attack.fcGloom=%1$s поглощён тьмой
+death.attack.fcGloom=%1$s был съеден Грю
 
 
 
@@ -1123,11 +1122,11 @@ status.gloom.gloom=Мрак
 status.gloom.dread=Страх
 status.gloom.terror=Ужас
 
-status.hunger.peckish=Проголодался
-status.hunger.hungry=Голоден
-status.hunger.famished=Очень голоден
-status.hunger.emaciated=Бессилен
-status.hunger.starving=Истощён
+status.hunger.peckish=Несыт
+status.hunger.hungry=Проголодался
+status.hunger.famished=Голоден
+status.hunger.emaciated=Истощён
+status.hunger.starving=Измождён
 
 status.health.hurt=Повреждён
 status.health.injured=Ранен
@@ -1135,8 +1134,8 @@ status.health.wounded=Травмирован
 status.health.crippled=Искалечен
 status.health.dying=Изувечен
 
-status.fat.plump=Полноватый
-status.fat.chubby=Пухлый
+status.fat.plump=Полноват
+status.fat.chubby=Пухловатый
 status.fat.fat=Толстый
 status.fat.obese=Ожиревший
 
@@ -1159,7 +1158,7 @@ selectWorld.gameMode=Режим игры:
 selectWorld.gameMode.survival=Выживалово
 selectWorld.gameMode.survival.line1=Возрождение в случайном
 selectWorld.gameMode.survival.line2=месте. Создайте компасс
-selectWorld.gameMode.survival.line3=чтобы вернуться к обратно.
+selectWorld.gameMode.survival.line3=чтобы вернуться обратно.
 selectWorld.gameMode.creative.line1=Полная свобода действий.
 selectWorld.gameMode.creative.line2=Возможность полета и
 selectWorld.gameMode.creative.line3=мгновенное ломание.
@@ -1196,7 +1195,7 @@ difficulty.btw.hostile_restricted.name=Враждебная
 difficulty.btw.classic.name=Классика
 difficulty.btw.classic.description=Старый добрый BTW.
 difficulty.btw.classic.description2=Возвращает мод к истокам.
-difficulty.btw.classic.description3=Минимальное усложнение.
+difficulty.btw.classic.description3=Незначительные усложнения.
 
 # Attributes
 
@@ -1252,7 +1251,7 @@ achievement.btw.find_shaft.desc=Не унывайте и продолжайте 
 achievement.btw.craft_wooden_club=Моё первое оружие
 achievement.btw.craft_wooden_club.desc=Создайте деревянную дубину
 
-achievement.btw.craft_fire_plough=Всё перетрут
+achievement.btw.craft_fire_plough=Надо перетереть
 achievement.btw.craft_fire_plough.desc=Создайте ручное сверло из двух древок, чтобы разжечь огонь
 
 achievement.btw.craft_campfire=Время эпичной жратвы
